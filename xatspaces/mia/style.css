@@ -402,17 +402,7 @@ li:before {
 }
 
 .entries {
-    position:absolute;
-    z-index:3;
-    top:0px;
-    right:0px;
-    width:520px;
-    height:600px;
-    overflow-x:hidden;
-    overflow-y:auto;
-    background-color:transparent;
-    box-sizing:border-box;
-    padding:40px 40px 100px 40px;
+    position:absolute; z-index:3; top:0px; right:0px; width:520px; height:600px; overflow-x:hidden; overflow-y:auto; background-color:transparent; box-sizing:border-box; padding:40px 40px 100px 40px;
 }
 
 .sidebox {
