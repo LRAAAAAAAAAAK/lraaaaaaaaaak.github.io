@@ -463,12 +463,12 @@ li:before {
     width: 190px; height: 60px; border-bottom: 1px solid #e2e2e2; position: absolute;
 }
 
-.phone-icon {
+.wolf {
     width: 26px; height: 26px; border-radius: 50px; background: https://placehold.it/26; position: absolute; animation: pulse 2s infinite; margin: 15px 81px;
 }
 
-.phone-icon img {
-    width: 26px; height: 26px; border-radius: 50px; background: https://placehold.it/26; box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.5); border-radius: 100px;
+.wolf img {
+    position: absolute; top: 40px; left: 30px; width: 26px; height: 26px; border-radius: 100px; background: https://placehold.it/26; box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.5); border-radius: 100px;
 }
 
 .contact-name {
