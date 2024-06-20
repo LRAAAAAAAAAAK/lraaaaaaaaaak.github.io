@@ -16,19 +16,20 @@
 }
 
 body {
+    background-color: #FFFFFF;
     background: url(./images/background.jpeg);
-    background-color: #edd3e0;
-    background-repeat: repeat;
     background-attachment: fixed;
-    background-position: center; 
-    font-family: 'Roboto', sans-serif;
-    font-size: 9px;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
     color: #1d1d1d;
-    letter-spacing: 0.4px;
-    line-height: 140%;
-    text-transform: lowercase;
+    font-family: helvetica;
+    font-size: 10px;
+    line-height: 14px;
+    font-weight: 400;
     text-align: justify;
 }
+
 
   *, body, img { cursor:url(https://xatimg.com/image/AZiawh0E0zes.png), auto;}
 
@@ -221,17 +222,6 @@ li:before {
     color: #d594c8;
 }
 
-.galaxy {
-    width: 1000px; 
-    height: 700px; 
-    overflow: hidden; 
-    position: fixed; 
-    top: 50%; 
-    left: 50%;
-    margin-left: -500px; 
-    margin-top: -350px;
-    z-index: 9999999;
-}
 
 
 ::selection { color: #e5e1e1;
@@ -404,11 +394,25 @@ li:before {
 }
 
 .sidebar {
-    width:240px; height: 280px; position: absolute; margin: 30px 105px; overflow: hidden;
+    position: absolute; z-index: 7; top: 0px; left: 0px; width: 250px; height: 600px;
 }
 
 .sidebar img {
     width: 240px; width: 280px; background-image:url();
+}
+
+.entries {
+    position:absolute;
+    z-index:3;
+    top:0px;
+    right:0px;
+    width:520px;
+    height:600px;
+    overflow-x:hidden;
+    overflow-y:auto;
+    background-color:transparent;
+    box-sizing:border-box;
+    padding:40px 40px 100px 40px;
 }
 
 .sidebox {
@@ -466,7 +470,19 @@ li:before {
 }
 
 .wolf {
-    width: 26px; height: 26px; border-radius: 50px; background: https://placehold.it/26; position: absolute; animation: pulse 2s infinite; margin: 15px 81px;
+    position: absolute;
+    top: 40px;
+    left: 30px;
+    z-index: 4;
+    background-image: url(./images/icon1.jpeg);
+    background-size: 150px 150px;
+    border-radius: 100px;
+    width: 150px;
+    height: 150px;
+    -webkit-box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.5);
+    -moz-box-shadow: 0px 0px 5px 0px rgba(0, 0, 0, 0.5);
+    box-shadow: 0px 0px 5px 0px rgba(0,0,0,0.5);
+}
 }
 
 .wolf img {
