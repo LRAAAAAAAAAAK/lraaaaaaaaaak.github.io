@@ -33,6 +33,8 @@ body {
     text-align: justify;
 }
 
+    *, body, img { cursor:url(https://xatimg.com/image/AZiawh0E0zes.png), auto;}
+
 ::-webkit-scrollbar {
   display:none;
   overflow-x: hidden;
