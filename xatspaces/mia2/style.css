@@ -91,7 +91,7 @@ ul li:before {
    width:320px;
    height:100px;
    left: 50%;
-   top: 50%;
+   top: 60%;
    position: absolute;
    border-radius: 10px;
    z-index: 6;
