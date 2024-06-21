@@ -90,8 +90,8 @@ ul li:before {
    background: #a7cfbc80;
    width:320px;
    height:100px;
-   left: 50%;
-   top: 60%;
+   left: 500px;
+   top: 500px;
    position: absolute;
    border-radius: 10px;
    z-index: 6;
