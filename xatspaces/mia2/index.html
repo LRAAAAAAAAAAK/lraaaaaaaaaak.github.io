@@ -68,6 +68,132 @@ function openAlytut(evt, alytutName) {
     
 </div>
 
+ <!----- 【 MUSIC PLAYER #03 by @glenthemes 】 ----->
+<script src="//glen-players.gitlab.io/03/core.js"></script>
+<link href="//glen-players.gitlab.io/03/main.css" rel="stylesheet">
+<style element="glenplayer03">
+[glenplayer03]{
+    /*--- player options ---*/
+    --MusicPlayer-Screen-Gap:30px;
+    --MusicPlayer-Width:230px;
+    z-index:699; /* increase this number if you can't see or interact with the player */
+
+    /*--- animation options ---*/
+    --MusicPlayer-Always-Show:"no"; /* "yes" will disable the next 2 options */
+
+    --MusicPlayer-Start-State:"hide"; /* "show" or "hide" */
+    --MusicPlayer-Interaction-Trigger:"hover"; /* "hover" or "click" */
+
+    --MusicPlayer-Animation-Speed:0.7s;
+
+    /*--- playback options ---*/
+    --Autoplay-First-Song:"no";
+    --Autoplay-Next-Song:"yes";
+    --Loop-Playlist:"no";
+
+    /*--- player title ---*/
+    --MusicPlayer-Title-Size:0.7rem;
+    --MusicPlayer-Title-Color:#ededed;
+    --MusicPlayer-Title-BG:#ae92df;
+    --MusicPlayer-Title-Padding:14px;
+    --MusicPlayer-Title-Rounded-Corners:8px;
+
+    /*--- songs list ---*/
+    --MusicPlayer-List-Padding:14px;
+    --MusicPlayer-List-BG:#ededed;
+    --MusicPlayer-List-Borders-Size:1px;
+    --MusicPlayer-List-Borders-Color:#eeeeee;
+    --MusicPlayer-List-Row-Spacing:9px;
+
+    /*--- album image/thumbnail ---*/
+    --MusicPlayer-Album-Image-Size:32px;
+    --MusicPlayer-Album-Image-Rounded-Corners:3px;
+    --MusicPlayer-Album-Gap-Right:10px;
+
+    /*--- song name ---*/
+    --MusicPlayer-Song-Name-Size:0.65rem;
+    --MusicPlayer-Song-Name-Color:#6f7480;
+
+    /*--- artist name ---*/
+    --MusicPlayer-Artist-Name-Size:0.7rem;
+    --MusicPlayer-Artist-Name-Color:#4f576a;
+
+    /*--- more options ---*/
+    --MusicPlayer-Details-Row-Gap:2px;
+    --MusicPlayer-Scrollbar-Color:#ae92df; /* doesn't work on firefox */
+
+    /*--- player buttons ---*/
+    --MusicPlayer-Icon-Style:"fill"; /* "fill" or "outline" */
+    --MusicPlayer-Buttons-Touch-Padding:4px;
+    --MusicPlayer-Buttons-Size:12px;
+}
+</style>
+
+<section glenplayer03 position="left">
+    <!---- music player title ---->
+    <button player-title>
+        <h3>Music</h3>
+    </button>
+
+    <div music-list>
+        <!----- SONG #1 ----->
+        <figure song-row>
+            <img album-image src="https://t2.genius.com/unsafe/300x300/https%3A%2F%2Fimages.genius.com%2Fb98900de0f7d0abd3bdf663baa3397dd.1000x1000x1.png">
+            <figcaption song-details>
+                <span song-name>Greedy</span>
+                <span artist-name>Tate McRae</span>
+            </figcaption>
+            <audio src="https://www.dropbox.com/scl/fi/02rja1c711rnxn6ailz90/TM_Greedy.mp3?rlkey=dh0k1x1ytzadshvg6i9dht9i0&dl=1" volume="69%"></audio>
+        </figure><!---end a song--->
+
+
+        <!----- SONG #2 ----->
+        <figure song-row>
+            <img album-image src="https://cdns-images.dzcdn.net/images/cover/ab3c2854c9a26ecfed950229607f74fa/500x500.jpg">
+            <figcaption song-details>
+                <span song-name>Fashion girl</span>
+                <span artist-name>Jadiel</span>
+            </figcaption>
+            <audio src="https://www.dropbox.com/scl/fi/46o3dpruxi6dpkr39efpe/FashionGirl.mp3?rlkey=jh97j2gd6333ei9ymw0qdy7hw&dl=1" volume="69%"></audio>
+        </figure><!---end a song--->
+
+
+        <!----- SONG #3 ----->
+        <figure song-row>
+            <img album-image src="https://i.scdn.co/image/ab67616d0000b273c3af0c2355c24ed7023cd394">
+            <figcaption song-details>
+                <span song-name>Everytime</span>
+                <span artist-name>Ariana Grande</span>
+            </figcaption>
+            <audio src="https://www.dropbox.com/scl/fi/q698v9w9veh3dhfyepqah/AG_everytime.mp3?rlkey=5cq4q3fyw7uj7tbe2o4bz4re9&dl=1" volume="70%"></audio>
+        </figure><!---end a song--->
+
+
+        <!----- SONG #4 ----->
+        <figure song-row>
+            <img album-image src="https://t2.genius.com/unsafe/300x300/https%3A%2F%2Fimages.genius.com%2F850ffa96e0caaaebcb1cbeeffd3a62c5.1000x1000x1.png">
+            <figcaption song-details>
+                <span song-name>Igual que un Angel</span>
+                <span artist-name>Kali Uchis</span>
+            </figcaption>
+            <audio src="https://www.dropbox.com/scl/fi/v31ejxlor6cib4beoe1nj/IgualQueUnAngel.mp3?rlkey=bvxybjv3k6ibf4u6v5pvg88gv&dl=1" volume="95%"></audio>
+        </figure><!---end a song--->
+
+
+        <!----- SONG #5 ----->
+        <figure song-row>
+            <img album-image src="https://upload.wikimedia.org/wikipedia/en/thumb/d/d7/Safe_Haven_-_Ruth_B_album.jpg/220px-Safe_Haven_-_Ruth_B_album.jpg">
+            <figcaption song-details>
+                <span song-name>Dandelions</span>
+                <span artist-name>Ruth B.</span>
+            </figcaption>
+            <audio src="https://www.dropbox.com/scl/fi/vt0zsrsk632uvoiqch488/Dandeli0ns.mp3?rlkey=0o33rx1f6fxkgckuv5f9jqtbf&dl=1" volume="100%"></audio>
+        </figure><!---end a song--->
+        
+    </div><!--end music-list-->    
+</section><!--end glenplayer03-->
+<!---- end entire music player ---->
+
 <script>
 
 dragElement(document.getElementById("sidebar"));
@@ -112,6 +238,7 @@ function dragElement(elmnt) {
   }
 }
 </script>
+
 </body>
 </html>
 <!-- partial -->
