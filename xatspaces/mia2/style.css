@@ -99,7 +99,7 @@ ul li:before {
 }
 
 .verde {
-    opacity: 0.5
+    background: transparent;
     width: 320px;
     height: 120px;
     left: 0px;
