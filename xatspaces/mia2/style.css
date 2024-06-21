@@ -87,9 +87,9 @@ ul li:before {
 }
 
 #sidebar {
-   background: #417d5180;
+   background: #a7cfbc80;
    width:320px;
-   height:120px;
+   height:100px;
    left: 37%;
    top: 230px;
    position: absolute;
@@ -112,8 +112,8 @@ ul li:before {
 
 .triste {
     background: transparent;
-    width: 50px;
-    height: 50px;
+    width: 62px;
+    height: 62px;
     left: 20px;
     top: 30px;
     position: absolute;
@@ -123,14 +123,14 @@ ul li:before {
     text-align: center;
     font-weight: bold;
     
-    top: 28px;
-    left: 10px;
+    top: 10px;
+    left: 5px;
     
 }
 
 .triste img {
-    width: 50px;
-    height: 50px;
+    width: 62px;
+    height: 62px;
     border-radius: 50%;
 }
   
@@ -155,7 +155,7 @@ ul li:before {
     width: 134px;
     height: auto;
     left: 78px;
-    top: 68px;
+    top: 38px;
     position: absolute;
     font-size: 14px;
     color: #000000;
@@ -164,7 +164,7 @@ ul li:before {
     font-weight: bold;
 } 
 
-.title b {font-size: 11px; color: #c29fc5; font-weight: 600; font-family: 'ABeeZee', sans-serif; margin-left: 2px; text-align: left;}
+.title b {font-size: 11px; color: #ffffff; font-weight: 600; font-family: 'ABeeZee', sans-serif; margin-left: 2px; text-align: left;}
 
 .azul {
     background: transparent;
