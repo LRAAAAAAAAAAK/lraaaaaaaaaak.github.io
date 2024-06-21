@@ -33,7 +33,7 @@ body {
     text-align: justify;
 }
 
-    *, body, img { cursor:url(https://xatimg.com/image/AZiawh0E0zes.png), auto;}
+    *, body, img { cursor:url(./images/eevee.ani), auto;}
 
 ::-webkit-scrollbar {
   display:none;
