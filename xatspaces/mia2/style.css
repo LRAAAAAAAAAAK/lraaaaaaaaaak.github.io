@@ -87,7 +87,7 @@ ul li:before {
 }
 
 #sidebar {
-   background: transparent;
+   background: #ffffff;
    width:320px;
    height:120px;
    left: 37%;
@@ -101,12 +101,12 @@ ul li:before {
 .verde {
     background: transparent;
     background-image: url(https://assets.tumblr.com/images/x.gif?v=1);
-    width: 320px;
-    height: 120px;
+    width: 200px;
+    height: 50px;
     left: 0px;
     top: 0px;
     position: absolute;
-    border-radius: 10px;
+    border-radius: 6px;
     
 } 
 
@@ -115,7 +115,7 @@ ul li:before {
     width: 50px;
     height: 50px;
     left: 20px;
-    top: 65px;
+    top: 30px;
     position: absolute;
     color: #c29fc5;
     font-family: 'ABeeZee', sans-serif;
@@ -133,6 +133,29 @@ ul li:before {
     width: 50px;
     height: 50px;
     border-radius: 50%;
+}
+
+.floating {
+    width: 80px; height:80px; padding: 10px; background: #f8b8d5; position: absolute; margin: 15px 270px; -webkit-border-radius: 100px; -webkit-border-bottom-left-radius: 0; border-radius: 100px; border-bottom-left-radius: 0; animation: float 3s ease-in-out infinite;
+}
+
+.floatings {
+    width: 70px; height: 70px; border: 5px solid #f8f8f8; border-radius: 50%;
+}
+
+.floatings img {
+    width: 70px; height: 70px; background: https://placehold.it/70; border-radius: 50%;
+}
+
+.window {
+    width: 200px; height: 100px; background: #f8f8f8; border:1px solid #e2e2e2; position: absolute; border-radius: 10px; margin: 155px 170px; overflow: hidden; animation-name: floating;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+    animation-timing-function: ease-in-out;}
+@keyframes floating {
+    from { transform: translate(0,  0px); }
+    65%  { transform: translate(0, 10px); }
+    to   { transform: translate(0, -0px); }
 }
   
 .triplex {
@@ -159,7 +182,7 @@ ul li:before {
     top: 68px;
     position: absolute;
     font-size: 14px;
-    color: #787878;
+    color: #ffffff;
     font-family: 'cocogoose', arial;
     text-align: left;
     font-weight: bold;
