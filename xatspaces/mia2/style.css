@@ -33,7 +33,8 @@ body {
     text-align: justify;
 }
 
-    *, body, img { cursor:url(./images/eevee.ani), auto;}
+    *, body, img { cursor:url(./images/eevee.ani), auto;
+        z-index: 10000000}
 
 ::-webkit-scrollbar {
   display:none;
