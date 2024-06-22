@@ -140,9 +140,9 @@ ul li:before {
 .triplex {
     background: transparent;
     width: 190px;
-    height: 11px;
+    height: 1px;
     left: 105px;
-    top: 5px;
+    top: 10px;
     position: absolute;
     color: #c29fc5;
     font-family: 'ABeeZee', sans-serif;
