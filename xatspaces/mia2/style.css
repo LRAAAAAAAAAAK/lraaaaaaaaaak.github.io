@@ -1,8 +1,8 @@
 @font-face{ 
-	font-family: 'cocogoose';
-	src: url('https://static.tumblr.com/evdci5g/wJoqwgw7i/cocogoose_pro_light-trial-webfont.eot');
-	src: url('https://static.tumblr.com/evdci5g/wJoqwgw7i/cocogoose_pro_light-trial-webfont.eot?#iefix') format('embedded-opentype'),
-	     url('https://static.tumblr.com/evdci5g/scRqwgw7l/cocogoose_pro_light-trial-webfont.woff') format('woff');
+    font-family: 'cocogoose';
+    src: url('https://static.tumblr.com/evdci5g/wJoqwgw7i/cocogoose_pro_light-trial-webfont.eot');
+    src: url('https://static.tumblr.com/evdci5g/wJoqwgw7i/cocogoose_pro_light-trial-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://static.tumblr.com/evdci5g/scRqwgw7l/cocogoose_pro_light-trial-webfont.woff') format('woff');
 }
 
 .iframe-controls--desktop {
@@ -162,7 +162,7 @@ ul li:before {
     position: absolute;
     font-size: 14px;
     color: #ffffff;
-    font-family: 'cursive', Lucida Handwriting;
+    font-family: 'cocogoose', arial;
     text-align: left;
     font-weight: bold;
 } 
