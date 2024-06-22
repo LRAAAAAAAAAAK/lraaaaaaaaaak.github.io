@@ -153,6 +153,22 @@ ul li:before {
 
 .triplex i {color: #c29fc5;}
 
+.triplex2 {
+    background: transparent;
+    width: 190px;
+    height: 1px;
+    left: 105px;
+    top: 50px;
+    position: absolute;
+    color: #c29fc5;
+    font-family: 'ABeeZee', sans-serif;
+    font-size: 20px;
+    text-align: right;
+    font-weight: bold;
+}
+
+.triplex2 i {color: #c29fc5;}
+
 .karl {
     background: transparent;
     width: 190px;
