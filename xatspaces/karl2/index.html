@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="en" >
+<head>
+  <meta charset="UTF-8">
+  <title>Miamor</title>
+  <link rel="stylesheet" href="./style.css">
+
+</head>
+<body>
+<!-- partial:index.partial.html -->
+<html><head>
+       <script src="//pull.cappuccicons.com/cpf.js"></script>
+        
+        <script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
+        
+        <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=ABeeZee&display=swap" rel="stylesheet">
+    
+ <link rel="stylesheet" href="./style.css" type="text/css" charset="utf-8" />
+ 
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+<script src ="//static.tumblr.com/fwgzvyf/Oj1o08f6h/shythemes.vr.js"></script>
+
+
+<script>
+
+function myFunction() {
+  var popup = document.getElementById("myPopup");
+  popup.classList.toggle("show");
+}
+</script>
+
+
+
+
+<script>
+function openAlytut(evt, alytutName) {
+  var i, x, tablinks;
+  x = document.getElementsByClassName("alytut");
+  for (i = 0; i < x.length; i++) {
+      x[i].style.display = "none";
+  }
+  tablinks = document.getElementsByClassName("tablink")
+  for (i = 0; i < x.length; i++) {
+      tablinks[i].className = tablinks[i].className.replace(" tabzact", "");
+  }
+  document.getElementById(alytutName).style.display = "block";
+  evt.currentTarget.className += " tabzact";
+}
+</script>
+    
+
+<body>
+<video id="background-video" autoplay loop muted poster="https://assets.codepen.io/6093409/river.jpg">
+  <source src="./images/umbreon.mp4" type="video/mp4">
+</video>
+<div id="sidebar">
+<div class="verde">
+<div class="triste">
+        
+<img src="./images/icon2.jpeg" class="triste">
+
+    </div>
+    <div class="title">mia.
+        <br><b>the dream of life.</b></div>
+    <div class="triplex">  <a target="_blank" href="https://xat.me/umbreon" title="lol"><i class="cp cp-harry-potter-3"></a></div>
+<script>
+
+dragElement(document.getElementById("sidebar"));
+
+function dragElement(elmnt) {
+  var pos1 = 0, pos2 = 0, pos3 = 0, pos4 = 0;
+  if (document.getElementById(elmnt.id + "sidebar")) {
+
+    document.getElementById(elmnt.id + "sidebar").onmousedown = dragMouseDown;
+  } else {
+
+    elmnt.onmousedown = dragMouseDown;
+  }
+
+  function dragMouseDown(e) {
+    e = e || window.event;
+    e.preventDefault();
+
+    pos3 = e.clientX;
+    pos4 = e.clientY;
+    document.onmouseup = closeDragElement;
+
+    document.onmousemove = elementDrag;
+  }
+
+  function elementDrag(e) {
+    e = e || window.event;
+    e.preventDefault();
+
+    pos1 = pos3 - e.clientX;
+    pos2 = pos4 - e.clientY;
+    pos3 = e.clientX;
+    pos4 = e.clientY;
+    
+    elmnt.style.top = (elmnt.offsetTop - pos2) + "px";
+    elmnt.style.left = (elmnt.offsetLeft - pos1) + "px";
+  }
+
+  function closeDragElement() {
+    document.onmouseup = null;
+    document.onmousemove = null;
+  }
+}
+</script>
+
+ <!----- 【 MUSIC PLAYER #03 by @glenthemes 】 ----->
+<script src="//glen-players.gitlab.io/03/core.js"></script>
+<link href="//glen-players.gitlab.io/03/main.css" rel="stylesheet">
+<style element="glenplayer03">
+[glenplayer03]{
+    /*--- player options ---*/
+    --MusicPlayer-Screen-Gap:30px;
+    --MusicPlayer-Width:278px;
+    z-index:699; /* increase this number if you can't see or interact with the player */
+
+    /*--- animation options ---*/
+    --MusicPlayer-Always-Show:"no"; /* "yes" will disable the next 2 options */
+
+    --MusicPlayer-Start-State:"hide"; /* "show" or "hide" */
+    --MusicPlayer-Interaction-Trigger:"hover"; /* "hover" or "click" */
+
+    --MusicPlayer-Animation-Speed:0.7s;
+
+    /*--- playback options ---*/
+    --Autoplay-First-Song:"no";
+    --Autoplay-Next-Song:"yes";
+    --Loop-Playlist:"no";
+
+    /*--- player title ---*/
+    --MusicPlayer-Title-Size:0.7rem;
+    --MusicPlayer-Title-Color:#ededed;
+    --MusicPlayer-Title-BG:#a7cfbc30;
+    --MusicPlayer-Title-Padding:14px;
+    --MusicPlayer-Title-Rounded-Corners:8px;
+    --MusicPlayer-Borders-Color:#ffffff;
+
+    /*--- songs list ---*/
+    --MusicPlayer-List-Padding:14px;
+    --MusicPlayer-List-BG:#a7cfbc12;
+    --MusicPlayer-List-Borders-Size:0px;
+    --MusicPlayer-List-Borders-Color:#eeeeee;
+    --MusicPlayer-List-Row-Spacing:9px;
+
+    /*--- album image/thumbnail ---*/
+    --MusicPlayer-Album-Image-Size:32px;
+    --MusicPlayer-Album-Image-Rounded-Corners:3px;
+    --MusicPlayer-Album-Gap-Right:10px;
+
+    /*--- song name ---*/
+    --MusicPlayer-Song-Name-Size:0.65rem;
+    --MusicPlayer-Song-Name-Color:#ffffff;
+
+    /*--- artist name ---*/
+    --MusicPlayer-Artist-Name-Size:0.7rem;
+    --MusicPlayer-Artist-Name-Color:#ffffff;
+
+    /*--- more options ---*/
+    --MusicPlayer-Details-Row-Gap:2px;
+    --MusicPlayer-Scrollbar-Color:#ffffff; /* doesn't work on firefox */
+
+    /*--- player buttons ---*/
+    --MusicPlayer-Icon-Style:"fill"; /* "fill" or "outline" */
+    --MusicPlayer-Buttons-Touch-Padding:4px;
+    --MusicPlayer-Buttons-Size:12px;
+}
+</style>
+
+<section glenplayer03 position="left">
+    <!---- music player title ---->
+    <button player-title>
+        <h3>Mood</h3>
+    </button>
+
+    <div music-list>
+        <!----- SONG #1 ----->
+        <figure song-row>
+            <img album-image src="./images/songs/dreams.jpeg">
+            <figcaption song-details>
+                <span song-name>Dreams</span>
+                <span artist-name>Nuages</span>
+            </figcaption>
+            <audio src="./music/dreams.mp3" volume="69%" type="audio-mpeg"></audio>
+        </figure><!---end a song--->
+
+
+        <!----- SONG #2 ----->
+        <figure song-row>
+            <img album-image src="./images/songs/reggae.jpg"><!-----SONG COVER ART----->
+            <figcaption song-details>
+                <span song-name>Reggaeton en lo oscuro</span><!----- SONG NAME ----->
+                <span artist-name>Wisin & Yandel</span><!----- ARTIST NAME ----->
+            </figcaption>
+            <audio src="./music/reggae.mp3" volume="69%" type="audio-mpeg"></audio><!-----ADUIO FILE LINK----->
+        </figure><!---end a song--->
+
+
+        <!----- SONG #3 ----->
+        <figure song-row>
+            <img album-image src="./images/songs/nf.jpeg">
+            <figcaption song-details>
+                <span song-name>Remember this</span>
+                <span artist-name>NF</span>
+            </figcaption>
+            <audio src="./music/nf.mp3" volume="69%" type="audio-mpeg"></audio>
+        </figure><!---end a song--->
+
+
+        <!----- SONG #4 ----->
+        <figure song-row>
+            <img album-image src="./images/songs/ember.png">
+            <figcaption song-details>
+                <span song-name>The Dark of You</span>
+                <span artist-name>Breaking Benjamin</span>
+            </figcaption>
+            <audio src="./music/dark.mp3" volume="69%" type="audio-mpeg"></audio>
+        </figure><!---end a song--->
+
+        <!----- SONG #5 ----->
+        <figure song-row>
+            <img album-image src="./images/songs/hope.jpeg">
+            <figcaption song-details>
+                <span song-name>Wonder</span>
+                <span artist-name>Finding Hope</span>
+            </figcaption>
+            <audio src="./music/wonder.mp3" volume="69%" type="audio-mpeg"></audio>
+        </figure><!---end a song--->
+
+        <!----- SONG #6 ----->
+        <figure song-row>
+            <img album-image src="./images/songs/sparks.jpg">
+            <figcaption song-details>
+                <span song-name>Sparks</span>
+                <span artist-name>Coldplay</span>
+            </figcaption>
+            <audio src="./music/sparks.mp3" volume="69%" type="audio-mpeg"></audio>
+        </figure><!---end a song--->
+
+        <!----- SONG #7 ----->
+        <figure song-row>
+            <img album-image src="./images/songs/chill.jpg">
+            <figcaption song-details>
+                <span song-name>On Chill</span>
+                <span artist-name>Wale ft Jeremih</span>
+            </figcaption>
+            <audio src="./music/chill.mp3" volume="69%" type="audio-mpeg"></audio>
+        </figure><!---end a song--->
+        
+        <!----- SONG #7 ----->
+        <figure song-row>
+            <img album-image src="./images/songs/lofi.png">
+            <figcaption song-details>
+                <span song-name>Peaceful Place</span>
+                <span artist-name>Lofi Jazz</span>
+            </figcaption>
+            <audio src="./music/lofi.mp3" volume="69%" type="audio-mpeg"></audio>
+        </figure><!---end a song--->
+    </div><!--end music-list-->    
+</section><!--end glenplayer03-->
+<!---- end entire music player ---->
+
+</body>
+</html>
+<!-- partial -->
+<!-- Credits Nature 
+</body>
+</html>
