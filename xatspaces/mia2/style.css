@@ -34,9 +34,6 @@ body {
     cursor:url(./images/cursor.png), auto;
 }
 
-    *, body, img { cursor:url(./images/eevee.ani), auto;
-        z-index: 10000000}
-
 ::-webkit-scrollbar {
   display:none;
   overflow-x: hidden;

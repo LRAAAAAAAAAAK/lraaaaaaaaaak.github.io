@@ -134,6 +134,7 @@ ul li:before {
     width: 62px;
     height: 62px;
     border-radius: 50%;
+    border: 1px solid #FEB3A80;
     opacity: 0.5;
 }
 
@@ -172,7 +173,7 @@ ul li:before {
     font-weight: bold;
 } 
 
-.title b {font-size: 11px; color: #c29fc5; font-weight: 600; font-family: 'ABeeZee', sans-serif; margin-left: 0px; text-align: left;}
+.title b {font-size: 11px; color: #FFEB3A98; font-weight: 600; font-family: 'ABeeZee', sans-serif; margin-left: 0px; text-align: left;}
 
 .azul {
     background: transparent;
