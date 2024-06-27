@@ -18,23 +18,13 @@
    transform-origin:100% 0%;
 }
     
-body {
-    background-color: #FFFFFF;
-    background: url(./images/background.jpeg);
-    background-attachment: fixed;
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    color: #1d1d1d;
-    font-family: helvetica;
-    font-size: 10px;
-    line-height: 14px;
-    font-weight: 400;
-    text-align: justify;
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
 }
-
-    *, body, img { cursor:url(./images/eevee.ani), auto;
-        z-index: 10000000}
 
 ::-webkit-scrollbar {
   display:none;
