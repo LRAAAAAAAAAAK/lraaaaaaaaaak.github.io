@@ -144,14 +144,14 @@ ul li:before {
     left: 105px;
     top: 10px;
     position: absolute;
-    color: ##80008080;
+    color: #ffffff80;
     font-family: 'ABeeZee', sans-serif;
     font-size: 20px;
     text-align: right;
     font-weight: bold;
 }
 
-.triplex i {color: #ffffff80;}
+.triplex i {color: #7900FF90;}
 
 
 .title {
