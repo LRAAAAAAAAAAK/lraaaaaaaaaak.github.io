@@ -81,7 +81,7 @@ ul li:before {
 }
 
 #sidebar {
-   background: #a7cfbc30;
+   background: #00000030;
    width: 320px;
    height: 100px;
    left: 40%;
@@ -89,7 +89,7 @@ ul li:before {
    position: absolute;
    border-radius: 10px;
    z-index: 6;
-   border: 1px solid #ffffff30;
+   border: 0.5px solid #FFEB3A70;
 }
 
 .verde {
@@ -135,14 +135,14 @@ ul li:before {
     left: 105px;
     top: 10px;
     position: absolute;
-    color: #ffffff80;
+    color: #00080080;
     font-family: 'ABeeZee', sans-serif;
     font-size: 20px;
     text-align: right;
     font-weight: bold;
 }
 
-.triplex i {color: #ffffff80;}
+.triplex i {color: #00080080;}
 
 
 .title {
