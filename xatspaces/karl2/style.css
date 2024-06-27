@@ -97,7 +97,7 @@ ul li:before {
    position: absolute;
    border-radius: 10px;
    z-index: 6;
-   border: 0.2px solid #FFEB3A30;
+   border: 0.3px solid #FFEB3A30;
 }
 
 .verde {
@@ -148,14 +148,14 @@ ul li:before {
     left: 105px;
     top: 10px;
     position: absolute;
-    color: #00080080;
+    color: #FFEB3A80;
     font-family: 'ABeeZee', sans-serif;
     font-size: 20px;
     text-align: right;
     font-weight: bold;
 }
 
-.triplex i {color: #00080080;}
+.triplex i {color: #FFEB3A80;}
 
 
 .title {
