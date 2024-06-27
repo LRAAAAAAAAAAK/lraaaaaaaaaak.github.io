@@ -89,7 +89,7 @@ ul li:before {
 }
 
 #sidebar {
-   background: #00000010;
+   background: #0d0d0d10;
    width: 320px;
    height: 100px;
    left: 40%;
@@ -97,7 +97,7 @@ ul li:before {
    position: absolute;
    border-radius: 10px;
    z-index: 6;
-   border: 0.3px solid #FFEB3A30;
+   border: 0.1px solid #FFEB3A10;
 }
 
 .verde {
