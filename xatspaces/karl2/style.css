@@ -126,6 +126,11 @@ ul li:before {
     width: 62px;
     height: 62px;
     border-radius: 50%;
+    opacity: 0.5;
+}
+
+.triste:hover img {
+    opacity: 1;
 }
   
 .triplex {
