@@ -31,7 +31,6 @@ body {
     line-height: 14px;
     font-weight: 400;
     text-align: justify;
-    cursor:url(./images/cursor.png), auto;
 }
 
 ::-webkit-scrollbar {
