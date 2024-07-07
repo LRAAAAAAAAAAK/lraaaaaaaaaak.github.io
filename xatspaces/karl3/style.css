@@ -14,7 +14,7 @@ body{
   align-items:center;
   justify-content:center;
 }
-a:hover { color: #f3aa77; transition: 0.35s ease-in-out;}
+a:hover { color: #f3aa77; transition: 0.35s ease-in-out; text-decoration: none;}
 
 b, strong { color: #bcd3fa40; font-weight: bold; font-size: 11px;}
 
