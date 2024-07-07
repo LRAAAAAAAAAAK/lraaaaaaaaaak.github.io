@@ -551,10 +551,8 @@ ul li:before {
     font-size: 20px;
     text-align: right;
     font-weight: bold;
+    text-decoration: none;
 }
-
-.triplex i {color: #8237ad;}
-
 
 .title {
     background: transparent;
