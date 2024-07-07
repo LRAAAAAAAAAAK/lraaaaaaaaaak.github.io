@@ -497,11 +497,6 @@ ul li:before {
 
 }
 
-#sidebar:hover {
-    opacity: 1;
-}
-
-
 .verde {
     background: transparent;
     background-image: url(https://assets.tumblr.com/images/x.gif?v=1);
