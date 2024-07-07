@@ -487,11 +487,12 @@ ul li:before {
    position: absolute;
    border-radius: 10px;
    z-index: 6;
-   border: 0.1px solid #ffffff30;
+   border: 0.1px solid #ffffff20;
+   opacity: 0.5;
 
 }
 
-.sidebar:hover {
+#sidebar:hover {
     opacity: 1;
 }
 
@@ -569,4 +570,4 @@ ul li:before {
     font-weight: bold;
 } 
 
-.title b {font-size: 11px; color: #bcd3fa40; font-weight: 600; font-family: 'ABeeZee', sans-serif; margin-left: 0px; text-align: left;}
+.title b {font-size: 11px; color: #8237ad; font-weight: 600; font-family: 'ABeeZee', sans-serif; margin-left: 0px; text-align: left;}
