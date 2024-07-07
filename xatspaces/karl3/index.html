@@ -177,6 +177,114 @@ function dragElement(elmnt) {
   }
 }
 </script>
+<!----- 【 MUSIC PLAYER #03 by @glenthemes 】 ----->
+<script src="//glen-players.gitlab.io/03/core.js"></script>
+<link href="//glen-players.gitlab.io/03/main.css" rel="stylesheet">
+<style element="glenplayer03">
+[glenplayer03]{
+    /*--- player options ---*/
+    --MusicPlayer-Screen-Gap:30px;
+    --MusicPlayer-Width:278px;
+    z-index:699; /* increase this number if you can't see or interact with the player */
+
+    /*--- animation options ---*/
+    --MusicPlayer-Always-Show:"no"; /* "yes" will disable the next 2 options */
+
+    --MusicPlayer-Start-State:"hide"; /* "show" or "hide" */
+    --MusicPlayer-Interaction-Trigger:"hover"; /* "hover" or "click" */
+
+    --MusicPlayer-Animation-Speed:0.7s;
+
+    /*--- playback options ---*/
+    --Autoplay-First-Song:"yes";
+    --Autoplay-Next-Song:"yes";
+    --Loop-Playlist:"no";
+
+    /*--- player title ---*/
+    --MusicPlayer-Title-Size:0.7rem;
+    --MusicPlayer-Title-Color:#ededed;
+    --MusicPlayer-Title-BG:#00000010;
+    --MusicPlayer-Title-Padding:14px;
+    --MusicPlayer-Title-Rounded-Corners:8px;
+    --MusicPlayer-Borders-Color:#FFEB3A30;
+
+    /*--- songs list ---*/
+    --MusicPlayer-List-Padding:14px;
+    --MusicPlayer-List-BG:#00000010;
+    --MusicPlayer-List-Borders-Size:0px;
+    --MusicPlayer-List-Borders-Color:#eeeeee;
+    --MusicPlayer-List-Row-Spacing:9px;
+
+    /*--- album image/thumbnail ---*/
+    --MusicPlayer-Album-Image-Size:32px;
+    --MusicPlayer-Album-Image-Rounded-Corners:3px;
+    --MusicPlayer-Album-Gap-Right:10px;
+
+    /*--- song name ---*/
+    --MusicPlayer-Song-Name-Size:0.65rem;
+    --MusicPlayer-Song-Name-Color:#ffffff;
+
+    /*--- artist name ---*/
+    --MusicPlayer-Artist-Name-Size:0.7rem;
+    --MusicPlayer-Artist-Name-Color:#ffffff;
+
+    /*--- more options ---*/
+    --MusicPlayer-Details-Row-Gap:2px;
+    --MusicPlayer-Scrollbar-Color:#ffffff; /* doesn't work on firefox */
+
+    /*--- player buttons ---*/
+    --MusicPlayer-Icon-Style:"fill"; /* "fill" or "outline" */
+    --MusicPlayer-Buttons-Touch-Padding:4px;
+    --MusicPlayer-Buttons-Size:12px;
+}
+</style>
+
+<section glenplayer03 position="left">
+    <!---- music player title ---->
+    <button player-title>
+        <h3>Music</h3>
+    </button>
+
+    <div music-list>
+        <!----- SONG #1 ----->
+        <figure song-row>
+            <img album-image src="./images/songs/sola.jpeg">
+            <figcaption song-details>
+                <span song-name>Arcangel</span>
+                <span artist-name>Sola ft De La Ghetto</span>
+            </figcaption>
+            <audio src="./music/sola.mp3" volume="69%" type="audio-mpeg"></audio>
+        </figure><!---end a song--->
+        <!----- SONG #2 ----->
+        <figure song-row>
+            <img album-image src="./images/songs/eyes.jpeg">
+            <figcaption song-details>
+                <span song-name>Green eyes</span>
+                <span artist-name>Coldplay</span>
+            </figcaption>
+            <audio src="./music/eyes.mp3" volume="69%" type="audio-mpeg"></audio>
+        </figure><!---end a song--->
+        <!----- SONG #3 ----->
+        <figure song-row>
+            <img album-image src="./images/songs/matters.png">
+            <figcaption song-details>
+                <span song-name>Nothing even matters</span>
+                <span artist-name>Lauryn Hill</span>
+            </figcaption>
+            <audio src="./music/hill.mp3" volume="69%" type="audio-mpeg"></audio>
+        </figure><!---end a song--->
+        <!----- SONG #4 ----->
+        <figure song-row>
+            <img album-image src="./images/songs/sing.png">
+            <figcaption song-details>
+                <span song-name>Money trees</span>
+                <span artist-name>Kendrick Lamar</span>
+            </figcaption>
+            <audio src="./music/money.mp3" volume="69%" type="audio-mpeg"></audio>
+        </figure><!---end a song--->
+    </div><!--end music-list-->    
+</section><!--end glenplayer03-->
+<!---- end entire music player ---->
 </body>
 </html>
 <!-- partial -->
