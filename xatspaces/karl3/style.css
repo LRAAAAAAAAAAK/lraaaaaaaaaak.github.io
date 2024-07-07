@@ -42,12 +42,12 @@ h3 { font-size: 11px; font-family: 'cocogoose', arial; border-top: 1px solid #dc
   width:200px;
   border-radius: 50%;
   position: relative;
-  background-color: #ff9933;
+  background-color: #C3B1E1;
   top:45px;
   left:220px;
 }
 .r1{
-  background-color: #ffbf80;
+  background-color: #6e119e;
   height:20px;
   width:110px;
   border-radius:10px;
@@ -56,7 +56,7 @@ h3 { font-size: 11px; font-family: 'cocogoose', arial; border-top: 1px solid #dc
   left:85px;
 }
 .r2{
-  background-color: #ffbf80;
+  background-color: #6e119e;
   height: 15px;
   width:90px;
   border-radius:6.5px;
@@ -65,7 +65,7 @@ h3 { font-size: 11px; font-family: 'cocogoose', arial; border-top: 1px solid #dc
   left:110px;
 }
 .r3{
-  background-color: #ffbf80;
+  background-color: #6e119e;
   height:30px;
   width:120px;
   border-radius: 15px;
@@ -74,7 +74,7 @@ h3 { font-size: 11px; font-family: 'cocogoose', arial; border-top: 1px solid #dc
   left:50px;
 }
 .r4{
-  background-color: #ffbf80;
+  background-color: #6e119e;
   height:22px;
   width:90px;
   border-radius:11px;
@@ -83,7 +83,7 @@ h3 { font-size: 11px; font-family: 'cocogoose', arial; border-top: 1px solid #dc
   left:12px;
 }
 .r5{
-  background-color: rgba(204, 102, 0,0.3);
+  background-color: rgb(81 0 204 / 30%);
   height:15px;
   width:40px;
   border-radius:7.5px;
@@ -92,7 +92,7 @@ h3 { font-size: 11px; font-family: 'cocogoose', arial; border-top: 1px solid #dc
   left:70px;
 }
 .r6{
-  background-color: rgba(204, 102, 0,0.3);
+  background-color: rgb(81 0 204 / 30%);
   height:20px;
   width:60px;
   border-radius:11px;
@@ -101,7 +101,7 @@ h3 { font-size: 11px; font-family: 'cocogoose', arial; border-top: 1px solid #dc
   left:10px;
 }
 .r7{
-  background-color: rgba(204, 102, 0,0.3);
+  background-color: rgb(81 0 204 / 30%);
   height:15px;
   width:45px;
   border-radius:7.5px;
@@ -110,7 +110,7 @@ h3 { font-size: 11px; font-family: 'cocogoose', arial; border-top: 1px solid #dc
   left:130px;
 }
 .r8{
-  background-color: rgba(255,255,255,0.4);
+  background-color: rgb(81 0 204 / 30%);
   height:12px;
   width:30px;
   border-radius:7.5px;
@@ -120,7 +120,7 @@ h3 { font-size: 11px; font-family: 'cocogoose', arial; border-top: 1px solid #dc
 }
 .shad{
   background-color: transparent;
-  box-shadow: 15px 15px rgba(204, 102, 0,0.3);
+  box-shadow: 15px 15px rgba(0, 0, 0,0.3);
   position: relative;
   height:200px;
   width:200px;
