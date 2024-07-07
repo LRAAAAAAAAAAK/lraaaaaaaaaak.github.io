@@ -479,7 +479,7 @@ ul li:before {
 }
 
 #sidebar {
-   background: #00000030;
+   background: #00000090;
    width: 320px;
    height: 100px;
    left: 40%;
@@ -488,7 +488,13 @@ ul li:before {
    border-radius: 10px;
    z-index: 6;
    border: 0.1px solid #ffffff30;
+
 }
+
+.sidebar:hover {
+    opacity: 1;
+}
+
 
 .verde {
     background: transparent;
