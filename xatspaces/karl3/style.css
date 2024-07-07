@@ -1,3 +1,9 @@
+@font-face{ 
+    font-family: 'cocogoose';
+    src: url('https://static.tumblr.com/evdci5g/wJoqwgw7i/cocogoose_pro_light-trial-webfont.eot');
+    src: url('https://static.tumblr.com/evdci5g/wJoqwgw7i/cocogoose_pro_light-trial-webfont.eot?#iefix') format('embedded-opentype'),
+         url('https://static.tumblr.com/evdci5g/scRqwgw7l/cocogoose_pro_light-trial-webfont.woff') format('woff');
+}
 body{
   background-color: #004466;
   padding:0;
@@ -8,6 +14,21 @@ body{
   align-items:center;
   justify-content:center;
 }
+a:hover { color: #f3aa77; transition: 0.35s ease-in-out; }
+
+b, strong { color: #787878; font-weight: bold; font-size: 11px;}
+
+i, italic, em { color: #787878; }
+
+u, underline { color: #000000; }
+
+stroke { color: #000000; }
+
+h1 { color: #e88f98; font-size: 15px; font-weight: bold; font-family: 'cocogoose', arial; margin-top: 10px; letter-spacing: 2px; text-align: center; padding-bottom: 8px;}
+
+h2 { color: #787878; font-size: 15px; font-weight: bold; font-family:'cocogoose', arial; text-align: center; margin-left: -8px;}
+
+h3 { font-size: 11px; font-family: 'cocogoose', arial; border-top: 1px solid #dcdcdc; padding-top: 20px; text-align: center; margin-left: -22px; width: 250px; margin-bottom: 0px;}
 .backg{
   position:relative;
   height:500px;
@@ -444,17 +465,7 @@ body{
   top:60px;
   left:370px;
 }
-a{
-    color: white;
-    font-size: 25px;
-    font-family: "Rubik",sans-serif;
-    position:absolute;
-    right:20px ;
-    top:20px;
-    padding:8px 12px 8px 12px;
-    border:2px solid white;
-    text-decoration:none;
-}
+
 ul li:before {
     content: url('https://api.iconify.design/ci:heart-outline.svg?height=9');
     vertical-align: -0.125em;
