@@ -20,8 +20,6 @@ b, strong { color: #bcd3fa40; font-weight: bold; font-size: 11px;}
 
 i, italic, em { color: #787878; }
 
-u, underline { color: #000000; }
-
 stroke { color: #000000; }
 
 h1 { color: #e88f98; font-size: 15px; font-weight: bold; font-family: 'cocogoose', arial; margin-top: 10px; letter-spacing: 2px; text-align: center; padding-bottom: 8px;}
@@ -562,7 +560,7 @@ ul li:before {
     text-decoration: none;
 }
 
-..triplex hover {
+.triplex a {
     text-decoration: none;
 }
 
