@@ -5,7 +5,7 @@
          url('https://static.tumblr.com/evdci5g/scRqwgw7l/cocogoose_pro_light-trial-webfont.woff') format('woff');
 }
 body{
-  background-color: #000000;
+  background-color: #342c61;
   padding:0;
   margin:0;
   height:100vh;
@@ -14,9 +14,9 @@ body{
   align-items:center;
   justify-content:center;
 }
-a:hover { color: #f3aa77; transition: 0.35s ease-in-out; text-decoration: none}
+a:hover { color: #f3aa77; transition: 0.35s ease-in-out;}
 
-b, strong { color: #787878; font-weight: bold; font-size: 11px;}
+b, strong { color: #bcd3fa40; font-weight: bold; font-size: 11px;}
 
 i, italic, em { color: #787878; }
 
@@ -34,7 +34,7 @@ h3 { font-size: 11px; font-family: 'cocogoose', arial; border-top: 1px solid #dc
   height:500px;
   width:500px;
   border-radius:50%;
-  background-color:rgba(93,21,103,0.1);
+  background-color:rgba(0,0,0,0.1);
   transform:scale(0.7);
   }
 .planet{
@@ -479,7 +479,7 @@ ul li:before {
 }
 
 #sidebar {
-   background: #0d0d0d10;
+   background: #00000030;
    width: 320px;
    height: 100px;
    left: 40%;
@@ -487,7 +487,7 @@ ul li:before {
    position: absolute;
    border-radius: 10px;
    z-index: 6;
-   border: 0.1px solid #FFEB3A10;
+   border: 0.1px solid #ffffff30;
 }
 
 .verde {
@@ -563,4 +563,4 @@ ul li:before {
     font-weight: bold;
 } 
 
-.title b {font-size: 11px; color: #FFEB3A98; font-weight: 600; font-family: 'ABeeZee', sans-serif; margin-left: 0px; text-align: left;}
+.title b {font-size: 11px; color: #bcd3fa40; font-weight: 600; font-family: 'ABeeZee', sans-serif; margin-left: 0px; text-align: left;}
