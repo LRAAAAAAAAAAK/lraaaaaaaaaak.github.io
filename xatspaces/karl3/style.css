@@ -558,10 +558,15 @@ ul li:before {
     text-align: right;
     font-weight: bold;
     text-decoration: none;
+    opacity: 0.5;
 }
 
 .triplex a {
     text-decoration: none;
+}
+
+.triplex hover {
+    opacity: 1;
 }
 
 .title {
