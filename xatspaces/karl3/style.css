@@ -5,7 +5,7 @@
          url('https://static.tumblr.com/evdci5g/scRqwgw7l/cocogoose_pro_light-trial-webfont.woff') format('woff');
 }
 body{
-  background-color: #004466;
+  background-color: #000000;
   padding:0;
   margin:0;
   height:100vh;
@@ -34,7 +34,7 @@ h3 { font-size: 11px; font-family: 'cocogoose', arial; border-top: 1px solid #dc
   height:500px;
   width:500px;
   border-radius:50%;
-  background-color:rgba(0,0,0,0.1);
+  background-color:rgba(93,21,103,0.1);
   transform:scale(0.7);
   }
 .planet{
