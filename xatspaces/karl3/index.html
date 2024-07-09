@@ -103,21 +103,6 @@ function myFunction() {
 
 
 
-<script>
-function openAlytut(evt, alytutName) {
-  var i, x, tablinks;
-  x = document.getElementsByClassName("alytut");
-  for (i = 0; i < x.length; i++) {
-      x[i].style.display = "none";
-  }
-  tablinks = document.getElementsByClassName("tablink")
-  for (i = 0; i < x.length; i++) {
-      tablinks[i].className = tablinks[i].className.replace(" tabzact", "");
-  }
-  document.getElementById(alytutName).style.display = "block";
-  evt.currentTarget.className += " tabzact";
-}
-</script>
 <div class="s7"></div>
 <div class="s8"></div>
 <div id="sidebar">
@@ -132,50 +117,7 @@ function openAlytut(evt, alytutName) {
     
         <div class="triplex">  <a target="_blank" href="https://xat.me/nature" title="mia"><i class="cp cp-ice-cream"></i></a></div>
     </div>
-<script>
 
-dragElement(document.getElementById("sidebar"));
-
-function dragElement(elmnt) {
-  var pos1 = 0, pos2 = 0, pos3 = 0, pos4 = 0;
-  if (document.getElementById(elmnt.id + "sidebar")) {
-
-    document.getElementById(elmnt.id + "sidebar").onmousedown = dragMouseDown;
-  } else {
-
-    elmnt.onmousedown = dragMouseDown;
-  }
-
-  function dragMouseDown(e) {
-    e = e || window.event;
-    e.preventDefault();
-
-    pos3 = e.clientX;
-    pos4 = e.clientY;
-    document.onmouseup = closeDragElement;
-
-    document.onmousemove = elementDrag;
-  }
-
-  function elementDrag(e) {
-    e = e || window.event;
-    e.preventDefault();
-
-    pos1 = pos3 - e.clientX;
-    pos2 = pos4 - e.clientY;
-    pos3 = e.clientX;
-    pos4 = e.clientY;
-    
-    elmnt.style.top = (elmnt.offsetTop - pos2) + "px";
-    elmnt.style.left = (elmnt.offsetLeft - pos1) + "px";
-  }
-
-  function closeDragElement() {
-    document.onmouseup = null;
-    document.onmousemove = null;
-  }
-}
-</script>
 <!----- 【 MUSIC PLAYER #03 by @glenthemes 】 ----->
 <script src="//glen-players.gitlab.io/03/core.js"></script>
 <link href="//glen-players.gitlab.io/03/main.css" rel="stylesheet">
