@@ -35,6 +35,7 @@ h3 { font-size: 11px; font-family: 'cocogoose', arial; border-top: 1px solid #dc
   background-color:rgba(0,0,0,0.1);
   transform:scale(0.7);
   }
+  
 .planet{
   height:200px;
   width:200px;
@@ -447,15 +448,16 @@ h3 { font-size: 11px; font-family: 'cocogoose', arial; border-top: 1px solid #dc
 }
 
 .s1,.s2,.s3,.s4,.s5,.s6{
-  background-color: white;
   width: 8px;
   height: 8px;
   border-radius: 50%;
   position: relative;
+  background:white;
 }
 .s1{
   bottom:150px;
   left:200px;
+  box-shadow: rgba(72, 135, 202, 0.8) 0 0 5px 5px;
 }
 .s2{
   top:130px;
@@ -468,23 +470,18 @@ h3 { font-size: 11px; font-family: 'cocogoose', arial; border-top: 1px solid #dc
 .s4{
   top: 216px;
   left:249px;
+  box-shadow: rgba(72, 135, 202, 0.8) 0 0 5px 5px;
 }
 .s5{
   top: 139px;
   left:100px;
+  box-shadow: rgba(72, 135, 202, 0.8) 0 0 5px 5px;
 }
 .s6{
   top:60px;
   left:370px;
 }
-.s7{
-  top:90px;
-  left:300px;
-}
-.s8{
-  top:90px;
-  left:400px;
-}
+
 .ns,.ns2,.ns3,.ns4{
   background-color: white;
   width: 5px;
@@ -495,6 +492,7 @@ h3 { font-size: 11px; font-family: 'cocogoose', arial; border-top: 1px solid #dc
 .ns{
   bottom:150px;
   left:400px;
+  box-shadow: rgba(72, 135, 202, 0.8) 0 0 5px 5px;
 }
 .ns2{
   top:130px;
@@ -507,6 +505,7 @@ h3 { font-size: 11px; font-family: 'cocogoose', arial; border-top: 1px solid #dc
 .ns4{
   top: -300px;
   left:-900px;
+  box-shadow: rgba(72, 135, 202, 0.8) 0 0 5px 5px;
 }
 ul li:before {
     content: url('https://api.iconify.design/ci:heart-outline.svg?height=9');
@@ -524,7 +523,7 @@ ul li:before {
    background: #0000000;
    width: 320px;
    height: 100px;
-   left: 40%;
+   left: 37%;
    top: 200px;
    position: absolute;
    border-radius: 10px;
