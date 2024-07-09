@@ -432,6 +432,20 @@ h3 { font-size: 11px; font-family: 'cocogoose', arial; border-top: 1px solid #dc
   bottom:10px;
   left:37px;
 }
+.sun{
+  border-radius:50%;
+  height:30px;
+  width:30px;
+  background:orange;
+  box-shadow: 0 0 30px orange,
+                0 0 60px orange,
+                0 0 200px yellow,
+                inset 0 0 80px yellow;
+  position: relative;
+  bottom:200px;
+  left:40px;
+}
+
 .s1,.s2,.s3,.s4,.s5,.s6{
   background-color: white;
   width: 8px;
