@@ -18,7 +18,7 @@ a:hover { color: #f3aa77; transition: 0.35s ease-in-out; text-decoration: none;}
 
 b, strong { color: #bcd3fa40; font-weight: bold; font-size: 11px;}
 
-i, italic, em { color: #787878; }
+i, italic, em { color: #C3B1E1} 
 
 stroke { color: #000000; }
 
@@ -471,7 +471,29 @@ h3 { font-size: 11px; font-family: 'cocogoose', arial; border-top: 1px solid #dc
   top:90px;
   left:400px;
 }
-
+.ns,.ns2,.ns3,.ns4{
+  background-color: white;
+  width: 5px;
+  height: 5px;
+  border-radius: 50%;
+  position: relative;
+}
+.ns{
+  bottom:150px;
+  left:400px;
+}
+.ns2{
+  top:130px;
+  left:-900px;
+}
+.ns3{
+  bottom:-300px;
+  left:400px;
+}
+.ns4{
+  top: -300px;
+  left:-900px;
+}
 ul li:before {
     content: url('https://api.iconify.design/ci:heart-outline.svg?height=9');
     vertical-align: -0.125em;
@@ -489,7 +511,7 @@ ul li:before {
    width: 320px;
    height: 100px;
    left: 40%;
-   top: 150px;
+   top: 200px;
    position: absolute;
    border-radius: 10px;
    z-index: 6;
@@ -540,28 +562,23 @@ ul li:before {
 }
   
 .triplex {
-    background: transparent;
     width: 190px;
     height: 1px;
     left: 105px;
-    top: 10px;
+    top: 35px;
     position: absolute;
     color: #8237ad;
     font-family: 'ABeeZee', sans-serif;
     font-size: 20px;
     text-align: right;
     font-weight: bold;
-    text-decoration: none;
-    opacity: 0.5;
+    opacity: 30%;
 }
 
 .triplex a {
     text-decoration: none;
 }
 
-.triplex hover {
-    opacity: 1;
-}
 
 .title {
     background: transparent;
