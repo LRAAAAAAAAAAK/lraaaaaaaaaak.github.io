@@ -1,5 +1,5 @@
 body {
-	 background: #fff;
+	 background: #f67bcf;
 	 height: 100vh;
 	 overflow: hidden;
 	 display: flex;
@@ -20,7 +20,7 @@ body {
 	 position: absolute;
 	 height: 600px;
 	 width: 600px;
-	 background: #2be3fa;
+	 background: #f67bcf;
 	 overflow: hidden;
 	 animation: surface 13000ms ease-in-out infinite alternate, rotateZ 20000ms linear infinite;
 }
