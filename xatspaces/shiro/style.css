@@ -19,7 +19,7 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
   border-radius: 5px;
-  background-color: #c696ba;
+  background-color: #ffe09a;
   box-shadow: 0 0 2rem #babbbc;
   animation: show-profile .5s forwards ease-in-out; }
 .text {
@@ -38,7 +38,7 @@ body {
     border: 5px solid #fafafa;
     background-color: #fafafa;
     margin-left: -50px;
-    box-shadow: -6px -2px 0.5rem #9b9d9f;
+    box-shadow: -4px -0px 1rem #9b9d9f;
     animation: rotate-photo .5s forwards ease-in-out;
  }
 
