@@ -28,7 +28,7 @@ body {
 .credit a:hover{color:white; font-size:15px}
 .profile {
   width: 330px;
-  height: 80px;
+  height: 76px;
   position: absolute;
   top: 50%;
   left: 50%;
@@ -104,7 +104,7 @@ body {
 .links{
   position: absolute;
   right: 15px;
-  top: 10px;
+  top: 9px;
   color: rgb(84, 255, 21);
   font-size: 13px;
 }
