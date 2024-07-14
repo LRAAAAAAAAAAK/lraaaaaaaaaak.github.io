@@ -19,7 +19,7 @@ body {
   left: 50%;
   transform: translate(-50%, -50%);
   border-radius: 5px;
-  background-color: #ffe09a;
+  background-color: #fae2ab;
   box-shadow: 0 0 2rem #babbbc;
   animation: show-profile .5s forwards ease-in-out; }
 .text {
