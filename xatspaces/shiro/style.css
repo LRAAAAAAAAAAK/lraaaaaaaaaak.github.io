@@ -5,7 +5,7 @@
 
 body, html {
   margin: 0;
-  background: #ffeaea;
+  background: #cbc6c6;
   color: #7a7b7c; }
 
 body {
@@ -25,6 +25,7 @@ body {
     position: absolute;
 }
 .credit a {color:#c29fc5; font-size: 10px; font-weight: 800; text-decoration: none;}
+.credit a:hover{color:white; font-size:15px}
 .profile {
   width: 330px;
   height: 80px;
@@ -103,7 +104,7 @@ body {
 .links{
   position: absolute;
   right: 15px;
-  top: 15px;
+  top: 10px;
   color: rgb(84, 255, 21);
   font-size: 13px;
 }
