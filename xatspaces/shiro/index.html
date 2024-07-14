@@ -5,8 +5,10 @@
   <title>Karl.</title>
   <link rel="stylesheet" href="./style.css">
   <script src="//pull.cappuccicons.com/cpf.js"></script>
-        
-        <script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
+    <script src="https://code.iconify.design/1/1.0.7/iconify.min.js"></script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+    <!-------MUSIC PLAYER BY GLENTHEMES------->
+<script src="//static.tumblr.com/gtjt4bo/m8Ypn96yc/glenplayer04.js"></script>
         
         <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
@@ -22,20 +24,47 @@
         <div class="photo"><img src="./images/a.jpeg" /></div>
         <div class="content">
             <div class="text">
-                <h3>shiro</h3>
+                <h3>shiro<i class="cp cp-star-o"></i></h3>
                 <h6>uwu</h6>
             </div>
-            <div class="btn"><span></span></div>
-        </div>
-        <div class="box">
-            <i class="cp cp-heart"></i>
-            <i class="fa fa-facebook"></i>
-            <i class="fa fa-github"></i>
-            <i class="fa fa-tumblr"></i>
-            <i class="fa fa-twitter"></i>
         </div>
     </div>
 </body>
+<!--GlenPlayer-->
+<script src="//cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js"></script>
+<link href="//fonts.googleapis.com/css?family=Readex+Pro" rel="stylesheet">
+<link href="//glenthemes.github.io/-music-/glenplayer02.css" rel="stylesheet">
+<script src="//glenthemes.github.io/-music-/glenplayer02.js"></script>
+<style element="glenplayer02">
+:root {
+    --MusicPlayer-Position:bottom left;
+    --MusicPlayer-Edge-Offset:18px;
+    
+    --MusicPlayer-Buttons-Size:14px;
+    --MusicPlayer-Buttons-Color:#ffd4fb;
+    --MusicPlayer-Buttons-Fill:no;
+    
+    --MusicPlayer-Note-Size:11px;
+    --MusicPlayer-Note-Color:#ffd4fb;
+    
+    --MusicPlayer-Spacing-1:7px;
+    --MusicPlayer-Spacing-2:9px;
+    
+    --MusicPlayer-Text-Size:9px;
+    --MusicPlayer-Text-Color:#ffd4fb;
+}
+</style>
+
+<div glenplayer02>
+    <div controls></div>
+    
+    <i class="aa-line-icons" icon-name="music-2"></i>
+
+    Je te laisserai des mots
+   
+    <audio src="./music/mots.mp3" volume="100%"></audio>
+    
+</div><!--don't delete this line-->
 <script>
     (function() {
         $('.btn').click(function() {
