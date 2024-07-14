@@ -5,11 +5,13 @@
 
 body, html {
   margin: 0;
-  background: #dddddd;
+  background: #ffeaea;
   color: #7a7b7c; }
 
 body {
-  font-family: 'Raleway', 'Microsoft JhengHei', Arial, sans-serif; }
+  font-family: 'Raleway', 'Microsoft JhengHei', Arial, sans-serif; 
+  background: white;
+  }
 .credit {
     background: transparent;
     color: #c29fc5;
@@ -32,7 +34,7 @@ body {
   transform: translate(-50%, -50%);
   border-radius: 5px;
   background-color: #fdfbcb;
-  box-shadow: -2px 2px 2rem #9e9292;
+  box-shadow: -2px 2px 2rem #ffdede;
   animation: show-profile .5s forwards ease-in-out; }
 .text {
 	color: white;
@@ -50,7 +52,7 @@ body {
     border: 5px solid #fdfbcb;
     background-color: #fafafa;
     margin-left: -50px;
-    box-shadow: -4px -0px 1rem #9b9d9f;
+    box-shadow: -2px 2px 2rem #ffdede;
     animation: rotate-photo .5s forwards ease-in-out;
  }
 
