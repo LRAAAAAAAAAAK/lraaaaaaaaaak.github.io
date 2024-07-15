@@ -1,0 +1,46 @@
+@import 'https://fonts.googleapis.com/css?family=Raleway';
+@font-face{ 
+  font-family: 'cocogoose';
+  src: url('https://static.tumblr.com/evdci5g/wJoqwgw7i/cocogoose_pro_light-trial-webfont.eot');}
+* {
+  outline: none;
+  user-select: none; }
+
+body, html {
+  margin: 0;
+  background: #cbc6c6;
+  color: #7a7b7c;
+  cursor:url(./images/cursor.png), auto; }
+
+h3 { 
+    font-size: 14px; 
+    font-family: 'cocogoose', 
+    arial; padding-top: 0px; 
+    margin-left: 0px; 
+    width: 250px; 
+    margin-bottom: 0px; 
+    color: #fdfbcb; 
+    letter-spacing: 0.5px;}
+h6 { 
+    font-size: 8px; 
+    font-family: 'cocogoose', arial; 
+    padding-top: 0px; 
+    margin-left: 0px; 
+    width: 250px; 
+    margin-bottom: 0px; 
+    color: #fdfbcb; 
+    letter-spacing: 0.7px;}
+.credit {
+    background: transparent;
+    color: #fdfbcb;
+    width: auto;
+    height: auto;
+    padding: 10px;
+    left: 96%;
+    bottom: 50px;
+    text-align: center;
+    font-size: 5px;
+    position: absolute;
+}
+.credit a {color:#000000; font-size: 10px; font-weight: 800; text-decoration: none;}
+.credit a:hover{color:black; font-size:12px}
