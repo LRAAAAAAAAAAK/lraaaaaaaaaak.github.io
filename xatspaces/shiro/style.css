@@ -1,4 +1,7 @@
 @import 'https://fonts.googleapis.com/css?family=Raleway';
+@font-face{ 
+  font-family: 'cocogoose';
+  src: url('https://static.tumblr.com/evdci5g/wJoqwgw7i/cocogoose_pro_light-trial-webfont.eot');}
 * {
   outline: none;
   user-select: none; }
@@ -7,6 +10,9 @@ body, html {
   margin: 0;
   background: #cbc6c6;
   color: #7a7b7c; }
+
+h3 { font-size: 14px; font-family: 'cocogoose', arial; padding-top: 0px; margin-left: 0px; width: 250px; margin-bottom: 0px; color: #fdfbcb;}
+h6 { font-size: 8px; font-family: 'cocogoose', arial; padding-top: 0px; margin-left: 0px; width: 250px; margin-bottom: 0px; color: #fdfbcb;}
 
 body {
   font-family: 'Raleway', 'Microsoft JhengHei', Arial, sans-serif; 
@@ -56,7 +62,6 @@ body {
     box-shadow: -2px 2px 2rem #ffdede;
     animation: rotate-photo .5s forwards ease-in-out;
  }
-  .photo .img:hover{color:white;}
 
 @keyframes rotate-photo {
   100% {
@@ -89,6 +94,8 @@ body {
         margin: 1px 0;
         letter-spacing: .5px;
         white-space: nowrap;
+        font-weight: bold; 
+        font-family: 'cocogoose', arial
     .profile .content .btn {
       background-color: #d4a0c6;
       width: 50px;
@@ -102,7 +109,6 @@ body {
       transition-duration: .3s;
       animation: pop-btn .3s both ease-in-out .5s; }
       }
-.i {size: 7px;}
 .links{
   position: absolute;
   right: 15px;
@@ -111,7 +117,7 @@ body {
   font-size: 13px;
 }
 .links a{color:#d4a0c6; text-decoration:none;}
-.links a:hover{color:white;}
+.links a:hover{color:white; font-size: 14px;}
 @keyframes pop-btn {
   0% {
     transform: scale(0); }
