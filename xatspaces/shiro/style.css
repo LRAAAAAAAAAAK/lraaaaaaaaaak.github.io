@@ -12,8 +12,8 @@ body, html {
   color: #7a7b7c;
   cursor:url(./images/cursor.png), auto; }
 
-h3 { font-size: 14px; font-family: 'cocogoose', arial; padding-top: 0px; margin-left: 0px; width: 250px; margin-bottom: 0px; color: #fdfbcb;}
-h6 { font-size: 8px; font-family: 'cocogoose', arial; padding-top: 0px; margin-left: 0px; width: 250px; margin-bottom: 0px; color: #fdfbcb;}
+h3 { font-size: 14px; font-family: 'cocogoose', arial; padding-top: 0px; margin-left: 0px; width: 250px; margin-bottom: 0px; color: #fdfbcb; letter-spacing: 0.5px;}
+h6 { font-size: 8px; font-family: 'cocogoose', arial; padding-top: 0px; margin-left: 0px; width: 250px; margin-bottom: 0px; color: #fdfbcb; letter-spacing: 0.7px;}
 
 body {
   font-family: 'Raleway', 'Microsoft JhengHei', Arial, sans-serif; 
@@ -93,7 +93,7 @@ body {
       .profile .content .text h3, .profile .content .text h6 {
         font-weight: normal;
         margin: 1px 0;
-        letter-spacing: .5px;
+        letter-spacing: .7px;
         white-space: nowrap;
         font-weight: bold; 
         font-family: 'cocogoose', arial
