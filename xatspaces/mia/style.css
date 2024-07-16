@@ -1660,6 +1660,10 @@ ol.notes img.avatar {
     left: 0
 }
 
+.notes img {
+    width: 50px;
+}
+
 body[data-shape="heart"] ol.notes img.avatar {
     width: 16px;
     height: 16px;
