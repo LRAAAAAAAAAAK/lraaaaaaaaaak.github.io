@@ -145,11 +145,11 @@ small {
 }
 
 b,strong {
-    color: rgb(var(--boldTextColor))
+    color: #FFCCCB;
 }
 
 i,em {
-    color: rgb(var(--italicTextColor))
+    color: rgb(140 132 153);
 }
 
 ol {
@@ -645,7 +645,7 @@ input.searchquery:focus::placeholder {
     margin-top: 10px;
     border-radius: 4px;
     background-color: rgb(var(--postBgColor));
-    border: 2px solid rgb(var(--bordersColor))
+    border: 2px solid rgb(var(--bordersColor));
 }
 
 #sb-infobox.menudisplay #desc,#sb-infobox.nonedisplay #desc,input#menutoggle:checked~#desc {
