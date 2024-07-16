@@ -1607,7 +1607,8 @@ body[data-body-font-family="Share Tech Mono"] .tags a,body[data-body-font-family
     margin: 0;
     border-radius: 4px;
     background-image: url(./images/lofi2.gif);
-    background-position: center;
+    background-position: 0px -120px;
+    background-size: cover;
     border: 2px solid rgb(var(--bordersColor))
 }
 
