@@ -12,6 +12,13 @@
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=ABeeZee&display=swap" rel="stylesheet">
 <link rel='stylesheet' href='https://cdn-uicons.flaticon.com/2.4.2/uicons-regular-rounded/css/uicons-regular-rounded.css'>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+<link href="//fonts.googleapis.com/css?family=Work+Sans" rel="stylesheet">
+
+<script src="https://static.tumblr.com/2pnwama/DLppehqvd/feathericons.js"></script>
+
+<!-------MUSIC PLAYER BY GLENTHEMES------->
+<script src="//glenthemes.github.io/-music-/glenplayer06.js"></script>
 </head>
 <style>
     
@@ -191,6 +198,108 @@ input#fsubmit {
     border-radius: 2px;
     border: 1px solid #fff;
 }
+
+/*-------MUSIC PLAYER BY GLENTHEMES-------*/
+:root {
+   --Music-Player-Vinyl:#000;
+   --Vinyl-Icon-Size:17px;
+   --Vinyl-Spin-Speed:3.5s;
+   --Music-Controls:#000;
+   --Music-Controls-Size:12px;
+   --Music-Title-Font-Size:11px;
+   --Music-Title-Color:#000;
+}
+.glenjams-06 {
+   display:none;
+   position:fixed;
+   bottom:0;margin-bottom:24px;
+   left:0;margin-left:30px;
+   z-index:99;
+}
+
+.pasta {
+   display:flex;
+   align-items:center;
+}
+
+.vinyl-spin {
+   animation:recordspin var(--Vinyl-Spin-Speed) linear infinite;
+   -webkit-animation:recordspin var(--Vinyl-Spin-Speed) linear infinite;
+   -moz-animation:recordspin var(--Vinyl-Spin-Speed) linear infinite;
+   -o-animation:recordspin var(--Vinyl-Spin-Speed) linear infinite;
+}
+
+.vinyl-pause {
+   animation-play-state:paused;
+   -webkit-animation-play-state:paused;
+   -moz-animation-play-state:paused;
+   -o-animation-play-state:paused;
+}
+
+@-webkit-keyframes recordspin {
+   from {
+       -webkit-transform:rotate(0deg);
+       -o-transform:rotate(0deg);
+       transform:rotate(0deg);
+   }
+   to {
+       -webkit-transform:rotate(360deg);
+       -o-transform:rotate(360deg);
+       transform:rotate(360deg);
+   }
+}
+
+@keyframes recordspin {
+   from {
+       -ms-transform:rotate(0deg);
+       -moz-transform:rotate(0deg);
+       -webkit-transform:rotate(0deg);
+       -o-transform:rotate(0deg);
+       transform:rotate(0deg);
+   }
+   to {
+       -ms-transform:rotate(360deg);
+       -moz-transform:rotate(360deg);
+       -webkit-transform:rotate(360deg);
+       -o-transform:rotate(360deg);
+       transform:rotate(360deg);
+   }
+}
+
+.vinyl, .vinyl svg {
+   width:var(--Vinyl-Icon-Size);
+   height:var(--Vinyl-Icon-Size);
+   line-height:0;
+}
+
+.music-controls {
+   margin-left:10px;
+   width:var(--Music-Controls-Size);
+   overflow:hidden;
+   cursor:pointer;
+}
+
+.music-controls svg {
+   display:block;
+   width:var(--Music-Controls-Size);
+   height:var(--Music-Controls-Size);
+   color:var(--Music-Controls);
+   stroke-width:1.5px;
+   line-height:0;
+}
+
+.pausee {display:none;}
+
+.beff {display:none;}
+.aff {display:block;}
+
+.music-title {
+   margin-left:8px;
+   font-family:work sans;
+   font-size:var(--Music-Title-Font-Size);
+   color:var(--Music-Title-Color);
+}
+
 </style>
 <body>
     <body class=" has--boxshadow" data-shape="heart" data-body-font-family="Share Tech Mono" data-body-font-size="12px" data-sidebar-position="left" data-pagination-display="mssg">
@@ -258,7 +367,7 @@ input#fsubmit {
                         <i class="fi fi-rr-home"></i>
                     </a>
                     
-                    <a href="#" class="mail_button">
+                    <a href="https://www.xat.me/nature" class="mail_button">
                         <i class="fi fi-rr-envelope"></i>
                     </a>
                     
@@ -352,7 +461,7 @@ input#fsubmit {
                                                         <img src="./images/wolf.jpeg" aria-hidden="true"/>
                                                     </div>
                                                     <div class="attr-author-name">
-                                                        <a href="#"  target="_blank"  class="post-author-name">nature</a>
+                                                        <a href="https://www.xat.me/nature"  target="_blank"  class="post-author-name">nature</a>
                                                     </div>
                                                     
                                                 </li>
@@ -362,7 +471,7 @@ input#fsubmit {
                                         
                                             <li class="trail-content">
                                                 <figure class="entry">
-                                                    <a class="post_media_photo_anchor" data-big-photo="https://64.media.tumblr.com/19b5c45db1601abd0b057c47582e0d9d/6d5b649e63136d0a-26/s1280x1920/ee43054a5d6a429049fa6dfe515604834307fe1d.png" data-big-photo-height="528" data-big-photo-width="1052">
+                                                    <a class="post_media_photo_anchor" data-big-photo="https://xatimg.com/image/0bFzQPBpUvFt.png" data-big-photo-height="528" data-big-photo-width="1052">
                                                         <img src="./images/nature.png" alt="tofublock:
     &ldquo; let me stay a little bit above the clouds. not lower, not higher
     &rdquo;" style="display:block;width:100%"/>
@@ -389,45 +498,60 @@ input#fsubmit {
                                         
                                         
                                     </ul>
+
                                     
                                 </section>
                                 
                                     <section class="infotab-section">
                                         <ul class="info-block resetlist">
                                             <li>
-                                                <div class="info-label"><span>posted</span></div>
-                                                <div class="info-entry">Today</a></div>
+                                                <div class="info-label"><span>Yawn</span></div>
+                                                <div class="info-entry"><a>Red</a></div>
                                             </li>
                                             
                                             <li>
-                                                <div class="info-label"><span>via</span></div>
-                                                <div class="info-entry"><a href="https://www.xat.me/nature"  target="_blank" >mia</a></div>
+                                                <div class="info-label"><span>a</span></div>
+                                                <div class="info-entry"><a href="https://www.xat.me/nature"  target="_blank" >rum</a></div>
                                             </li>
                                             <li>
-                                                <div class="info-label"><span>origin</span></div>
-                                                <div class="info-entry"><a href="https://www.xat.me/nature"  target="_blank" >mia</a></div>
+                                                <div class="info-label"><span>more</span></div>
+                                                <div class="info-entry"><a href="https://www.xat.me/nature"  target="_blank" >sir</a></div>
                                             </li>
-                                            
-                                            
-                                            <li>
-                                                <div class="info-label"><span>high-res</span></div>
-                                                <div class="info-entry"><a href="https://64.media.tumblr.com/19b5c45db1601abd0b057c47582e0d9d/6d5b649e63136d0a-26/s1280x1920/ee43054a5d6a429049fa6dfe515604834307fe1d.png"  target="_blank" >view in high-res</a></div>
-                                            </li>
-                                            
                                             
                                             
                                             <li>
-                                                <div class="info-label"><span>tags</span></div>
-                                                <div class="info-entry tags"><a href="https://pixelution-theme.tumblr.com/tagged/photo%20post">#photo post</a> <a href="https://pixelution-theme.tumblr.com/tagged/art">#art</a> <a href="https://pixelution-theme.tumblr.com/tagged/clouds">#clouds</a> </div>
+                                                <div class="info-label"><span>Roman</span></div>
+                                                <div class="info-entry"><a href="https://xatimg.com/image/0bFzQPBpUvFt.png"  target="_blank" >is</a></div>
                                             </li>
                                             
+                                            
+                                            
+                                            <li>
+                                                <div class="info-label"><span>way.</span></div>
+                                                <div class="info-entry tags"><a>murder.</a></div>
+                                            </li>
                                         </ul>
                                     </section>
                                     
                                         <section class="notetab-section">
                                             <div class="notes-wrapper">
                                                 
-                                                <div class="notes-loading">Loading...</div>
+                                                <div class="notes-loading">
+                                                    <br>
+                                                    <!-------MUSIC PLAYER BY GLENTHEMES------->
+                                                    <div class="glenjams-06">
+                                                    <div class="pasta">
+                                                       <div class="vinyl"></div>
+                                                       <div class="music-controls">
+                                                           <div class="playy"><i data-feather="play"></i></div>
+                                                           <div class="pausee"><i data-feather="pause"></i></div>
+                                                       </div>
+                                                       <div class="music-title">Moonlit Night</div>
+                                                    
+                                                       <audio id="audio" src="https://rhizo.gitlab.io/m/Moonlit_Night.mp3" type="audio"></audio>
+                                                    </div><!--pasta-->
+                                                    </div><!--glenjams-06-->
+                                                    <!----end music player----></div>
                                                 <div class="ajax-notes"></div>
                                                 
                                                 
@@ -456,7 +580,7 @@ input#fsubmit {
         <script src="https://static.tumblr.com/kmw8hta/heppglaoh/tooltipster-discovery.min.js"></script>
         <script src="https://static.tumblr.com/kmw8hta/rVKpb21vn/pxuphotoset.min.js"></script>
         <script src="https://cdn.jsdelivr.net/gh/echxn/yeolithm@master/src/js/pixelution.js"></script>
-        
+        <script>feather.replace()</script>
     
 
 </body>

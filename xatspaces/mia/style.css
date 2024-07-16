@@ -145,11 +145,11 @@ small {
 }
 
 b,strong {
-    color: #FFCCCB;
+    color: rgb(140 132 153);
 }
 
 i,em {
-    color: rgb(140 132 153);
+    color: #FFCCCB
 }
 
 ol {
