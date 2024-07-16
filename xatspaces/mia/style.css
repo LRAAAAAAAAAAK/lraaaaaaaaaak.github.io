@@ -1593,7 +1593,7 @@ ul.info-block>li:first-child {
 }
 
 .info-entry a:hover {
-    text-decoration: var(--textLinksDecoration)
+    text-decoration: none;
 }
 
 body[data-body-font-family="Share Tech Mono"] .tags a,body[data-body-font-family="Ubuntu Mono"] .tags a {
