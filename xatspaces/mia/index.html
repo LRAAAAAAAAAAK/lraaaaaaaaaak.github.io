@@ -16,6 +16,7 @@
 <link href="//fonts.googleapis.com/css?family=Work+Sans" rel="stylesheet">
 
 <script src="https://static.tumblr.com/2pnwama/DLppehqvd/feathericons.js"></script>
+<script src="//pull.cappuccicons.com/cpf.js"></script>
 
 <!-------MUSIC PLAYER BY GLENTHEMES------->
 <script src="//glenthemes.github.io/-music-/glenplayer06.js"></script>
@@ -283,7 +284,7 @@ input#fsubmit {
    display:block;
    width:var(--Music-Controls-Size);
    height:var(--Music-Controls-Size);
-   color:var(--Music-Controls);
+   color:rgb(0, 0, 0);
    stroke-width:1.5px;
    line-height:0;
 }
@@ -297,7 +298,7 @@ input#fsubmit {
    margin-left:8px;
    font-family:work sans;
    font-size:var(--Music-Title-Font-Size);
-   color:var(--Music-Title-Color);
+   color:rgb(148 185 197)
 }
 
 </style>
@@ -389,8 +390,8 @@ input#fsubmit {
                 <!-- Menu links: -->
                 <nav id="menu">
                     
-                    <a href="#">Link 1</a>
-                    <a href="#">Link 2</a>
+                    <a>Dream</a>
+                    <a>On</a>
                     
                 </nav>
                 <!---->
@@ -406,10 +407,8 @@ input#fsubmit {
                         <i class="fi fi-rr-cross"></i>
                     </div>
                     <div class="pg-body">
-                        <div class="pg-message">Do you wish to continue?</div>
+                        <div class="pg-message"><div id="MyClockDisplay" class="clock" onload="showTime()"></div></div>
                         <div class="pg-select">
-                            <a>no</a>
-                            <a>yes</a>
                         </div>
                     </div>
                 </div>
@@ -438,15 +437,15 @@ input#fsubmit {
                                 
                                 
                                 <label for="notetab_726755065592987648" class="notetab_button">
-                                    <span>notes</span>
+                                    <span>M</span>
                                 </label>
                                 
                                 <label for="infotab_726755065592987648" class="infotab_button">
-                                    <span>info</span>
+                                    <span>I</span>
                                 </label>
                                 
                                 <label for="maintab_726755065592987648" class="maintab_button">
-                                    <span class="date">16·07·24</span>
+                                    <span class="date">A</span>
                                     <span style="display:none">xxx</span>
                                 </label>
                             </div>
@@ -546,9 +545,9 @@ input#fsubmit {
                                                            <div class="playy"><i data-feather="play"></i></div>
                                                            <div class="pausee"><i data-feather="pause"></i></div>
                                                        </div>
-                                                       <div class="music-title">Moonlit Night</div>
+                                                       <div class="music-title">lofi rain jazz</div>
                                                     
-                                                       <audio id="audio" src="https://rhizo.gitlab.io/m/Moonlit_Night.mp3" type="audio"></audio>
+                                                       <audio id="audio" src="./music/lofi.mp3" type="audio" autoplay></audio>
                                                     </div><!--pasta-->
                                                     </div><!--glenjams-06-->
                                                     <!----end music player----></div>
@@ -581,6 +580,7 @@ input#fsubmit {
         <script src="https://static.tumblr.com/kmw8hta/rVKpb21vn/pxuphotoset.min.js"></script>
         <script src="https://cdn.jsdelivr.net/gh/echxn/yeolithm@master/src/js/pixelution.js"></script>
         <script>feather.replace()</script>
+        <script  src="./script.js"></script>
     
 
 </body>
