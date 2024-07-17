@@ -7,32 +7,6 @@
   outline: none;
   user-select: none;
 }
-.credit {
-  background: transparent;
-  color: #fdfbcb;
-  width: auto;
-  height: auto;
-  padding: 10px;
-  left: 96%;
-  bottom: 50px;
-  text-align: center;
-  font-size: 5px;
-  position: absolute;
-}
-.credit a {
-  color: #000000;
-  font-size: 10px;
-  font-weight: 800;
-  text-decoration: none;
-}
-.credit a:hover {
-  color: black;
-  font-size: 12px;
-}
-/*
- * PIXELUTION THEME by https://yeolithm.com/
- * Copyright (c) 2023 yeoli-thm
- */
 :root {
   --heartBulletOutlineSVG: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath fill='none' stroke='%23000000' stroke-width='2.4' d='M12.89,21.353c-0.236,0.159-0.544,0.159-0.78,0 c-1.846-1.233-9.61-6.72-9.61-11.897c0-6.68,7.85-7.75,10-3.25c2.15-4.5,10-3.43,10,3.25c0,5.178-7.764,10.664-9.61,11.895V21.353z'/%3E%3C/svg%3E");
   --heartBulletFillSVG: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24'%3E%3Cpath  fill='%23000000' d='M12.89,21.353c-0.236,0.159-0.544,0.159-0.78,0 c-1.846-1.233-9.61-6.72-9.61-11.897c0-6.68,7.85-7.75,10-3.25c2.15-4.5,10-3.43,10,3.25c0,5.178-7.764,10.664-9.61,11.895V21.353z'/%3E%3C/svg%3E");
