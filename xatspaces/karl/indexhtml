@@ -1,0 +1,617 @@
+
+<!DOCTYPE html>
+<script>var __pbpa = true;</script><script>var translated_warning_string = 'Warning: Never enter your Tumblr password unless \u201chttps://www.tumblr.com/login\u201d\x0ais the address in your web browser.\x0a\x0aYou should also see a green \u201cTumblr, Inc.\u201d identification in the address bar.\x0a\x0aSpammers and other bad guys use fake forms to steal passwords.\x0a\x0aTumblr will never ask you to log in from a user\u2019s blog.\x0a\x0aAre you absolutely sure you want to continue?';</script><script type="text/javascript" language="javascript" src="https://assets.tumblr.com/assets/scripts/pre_tumblelog.js?_v=f218a6f6fc718910a31115ce98167c5e"></script>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<!----- THEME #02 by BYTES-AND-PIXELS
+    `DARKSOME~ o(≧▽≦)o .｡.:*☆
+   
+    °☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・
+    PLEASE DON'T RIP OFF THE CODES AND/OR REMOVE THE CREDITS
+    PLEASE DON'T REDISTRIBUTE AND/OR CLAIM AS YOUR OWN
+    PLEASE LIKE AND/OR REBLOG THEME DETAILS IF USING
+    °☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・°☆.。.:*・
+ ----->
+
+ 
+<head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# blog: http://ogp.me/ns/blog#"><title>Darksome</title>
+<style>figure{margin:0}.tmblr-iframe{position:absolute}.tmblr-iframe.hide{display:none}</style>
+<style>figure{margin:0}.tmblr-iframe{position:absolute}.tmblr-iframe.hide{display:none}.tmblr-iframe--amp-cta-button{visibility:hidden;position:fixed;bottom:10px;left:50%;transform:translateX(-50%);z-index:100}.tmblr-iframe--amp-cta-button.tmblr-iframe--loaded{visibility:visible;animation:iframe-app-cta-transition .2s ease-out}</style><link rel="stylesheet" media="screen" href="https://assets.tumblr.com/client/prod/standalone/blog-network-npf/index.build.css?_v=f085dde138e244526309d4673db67b4c"><link rel="shortcut icon" href="http://i1225.photobucket.com/albums/ee381/enix-directory/Pixels/71.gif">
+<link rel="alternate" type="application/rss+xml" href="http://darksome-bysiyelalah.tumblr.com/rss">
+<meta name="description" content="Darkness is my friend, the only comfort I have." />
+ 
+<link href='http://fonts.googleapis.com/css?family=VT323:400,400italic,700,700italic|Share+Tech+Mono:400italic,700italic,400,700|Chela+One:400italic,700italic,400,700' rel='stylesheet' type='text/css'>
+
+
+<link href="style-my-tooltips.css" rel="stylesheet" type="text/css" />
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script><script type="text/javascript" src="https://static.tumblr.com/7qjmkr5/IUmmdsy41/jquery.style-my-tooltips.js"></script><script>(function($){$(document).ready(function(){$("[title]").style_my_tooltips({ 
+    tip_follows_cursor:true,
+    tip_delay_time:100,
+    tip_fade_speed:400,
+    attribute:"title"
+});});})(jQuery);</script>
+
+<meta name="image:cornerpic" content="http://40.media.tumblr.com/be0bb5517626824681397f55a05434d6/tumblr_inline_no3widhg8r1r1kkac_500.png"/>
+
+<meta name="color:Background" content="#000000"/>
+<meta name="color:Sidebar BG" content="#000000"/>
+<meta name="color:Sidebar Border" content="#909090"/>
+<meta name="color:Sidebar Title" content="#ffffff"/>
+<meta name="color:Sidebar Text" content="#909090"/>
+<meta name="color:Posts BG" content="#000000"/>
+
+<meta name="color:Body Text" content="#575757"/>
+<meta name="color:Bold" content="#afafaf"/>
+<meta name="color:Italicized" content="#ffffff"/>
+<meta name="color:Link" content="#afafaf"/>
+<meta name="color:Link Hover" content="#ffffff"/>
+<meta name="color:Blockquote Border" content="#909090"/>
+ 
+<meta name="color:Highlight" content="#909090"/>
+<meta name="color:Scrollbar 1" content="#ffffff"/>
+<meta name="color:Scrollbar 2" content="#909090"/>
+<meta name="color:Tooltip Background" content="#ffffff"/>
+<meta name="color:Tooltip Text" content="#000000"/>
+ 
+<meta name="color:Main Nav BG" content="#afafaf"/>
+<meta name="color:Main Nav Text" content="#000000"/>
+<meta name="color:Main Nav Border" content="#909090"/>
+<meta name="color:Main Nav Hover BG" content="##909090"/>
+<meta name="color:Main Nav Hover Text" content="#ffffff"/>
+<meta name="color:Custom Links Text" content="#afafaf"/>
+<meta name="color:Custom Links Hover Text" content="#ffffff"/>
+
+<meta name="color:Pagination BG" content="#575757"/>
+<meta name="color:Pagination Text" content="#000000"/>
+<meta name="color:Pagination Hover BG" content="#909090"/>
+<meta name="color:Pagination Hover Text" content="#ffffff"/>
+
+<meta name="text:Hit Counter" content=""/>
+
+<meta name="text:Link 1" content=""/>
+<meta name="text:Link 1 Title" content=""/>
+<meta name="text:Link 1 URL" content=""/>
+<meta name="text:Link 2" content=""/>
+<meta name="text:Link 2 Title" content=""/>
+<meta name="text:Link 2 URL" content=""/>
+<meta name="text:Link 3" content=""/>
+<meta name="text:Link 3 Title" content=""/>
+<meta name="text:Link 3 URL" content=""/>
+<meta name="text:Link 4" content=""/>
+<meta name="text:Link 4 Title" content=""/>
+<meta name="text:Link 4 URL" content=""/>
+<meta name="text:Link 5" content=""/>
+<meta name="text:Link 5 Title" content=""/>
+<meta name="text:Link 5 URL" content=""/>
+<meta name="text:Link 6" content=""/>
+<meta name="text:Link 6 Title" content=""/>
+<meta name="text:Link 6 URL" content=""/>
+<meta name="text:Link 7" content=""/>
+<meta name="text:Link 7 Title" content=""/>
+<meta name="text:Link 7 URL" content=""/>
+<meta name="text:Link 8" content=""/>
+<meta name="text:Link 8 Title" content=""/>
+<meta name="text:Link 8 URL" content=""/>
+<meta name="text:Link 9" content=""/>
+<meta name="text:Link 9 Title" content=""/>
+<meta name="text:Link 9 URL" content=""/>
+<meta name="text:Link 10" content=""/>
+<meta name="text:Link 10 Title" content=""/>
+<meta name="text:Link 10 URL" content=""/>
+<meta name="text:Link 11" content=""/>
+<meta name="text:Link 11 Title" content=""/>
+<meta name="text:Link 11 URL" content=""/>
+<meta name="text:Link 12" content=""/>
+<meta name="text:Link 12 Title" content=""/>
+<meta name="text:Link 12 URL" content=""/>
+
+
+<meta name="if:Grayscale Images" content="1"/>
+<meta name="if:Faded Images" content="1"/>
+<script
+    defer
+    type="application/javascript"
+    id="bilmur"
+    data-provider="tumblr.com"
+    data-service="blognetwork"
+    data-customproperties='{"theme": ""}'
+    nonce="NqUpEUte70z9Z8xHMCcbk42b7g"
+    src="https://s0.wp.com/wp-content/js/bilmur.min.js?m=202429"
+  ></script>
+  <script src="https://assets.tumblr.com/assets/scripts/tumblelog_post_message_queue.js?_v=a8fadfa499d8cb7c3f8eefdf0b1adfdd"></script><link rel="stylesheet" type="text/css" href="https://assets.tumblr.com/fonts/sofiapro/stylesheet.css?v=2"><link rel="canonical" href="https://bytes-and-pixels.tumblr.com/darksome" /></head>
+  <body>
+    <div id ="cornerimage"><img src="http://40.media.tumblr.com/be0bb5517626824681397f55a05434d6/tumblr_inline_no3widhg8r1r1kkac_500.png"></div>
+    <div class="credits"><a href="http://bytes-and-pixels.tumblr.com/" title="Theme by bytes-and-pixels"><img src="http://i1225.photobucket.com/albums/ee381/enix-directory/Pixels/tumblr_lkl65q67St1qfamg6.gif"></a></div>
+    
+    <div id="sidebar">
+        <div id="sidetitle">Darksome</div>
+        <p>Darkness is my friend, the only comfort I have.</p>
+        
+        <center><small><script language="JavaScript"> 
+    var ref = (''+document.referrer+'');
+    var w_h = window.screen.width + " x " + window.screen.height;
+    document.write('<script src="http://s1.freehostedscripts.net/ocounter.php?site=ID3573342&e1=&e2=&r=' + ref + '&wh=' + w_h + '"><\/script>'); 
+    </script> ⋄ <script language="JavaScript" src="http://s1.freehostedscripts.net/ocount.php?site=ID2286216&name="></script><br/></small></center>
+        <br/>
+        <center><div id="mainnav"><a href="/">HOME</a></div>
+        <div id="mainnav"><a href="/ask">MESSAGE</a></div>
+        <div id="mainnav"><a href="/">ARCHIVE</a></div>
+        <div id="sidelinks" title="random thoughts"><a href="/tagged/prose">✘prose</a></div>
+            <div id="sidelinks"><a href="/tagged/poems" title="lousy poems">✘poetry</a></div>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+        </center>
+    </div>
+    
+    <!----POSTS---->
+    <div id="entries">
+    
+    
+    <div data-scroll-reveal='move 80px'><div class="post">
+    
+    
+    
+     
+    
+     
+    
+    
+    
+     
+    
+        <a href="http://darksome-bysiyelalah.tumblr.com/image/119794793920"><img src="http://67.media.tumblr.com/8cc03c2c97ced43ad8a2064c521b1880/tumblr_no3w3rbqpK1r569h6o1_r1_1280.jpg" width="400px" alt="bytes-and-pixels:
+    &ldquo;DARKSOME&ldquo;Theme #02 by bytes-and-pixels
+    &rdquo;
+    FEATURES
+    &bull; Black and white and shades in between
+    &bull; 26 Color Options
+    &bull; Up to 12 Custom Links (more if you know HTML)
+    &bull; 400px Posts
+    &bull; Reblog Button
+    &bull; Lazy Load Posts
+    &bull; Customized Cursor
+    &bull;..."></a>
+        <p><a href="http://bytes-and-pixels.tumblr.com/post/119345375741" class="tumblr_blog">bytes-and-pixels</a>:</p>
+    
+    <blockquote><h2><b>DARKSOME</b></h2><blockquote><p>Theme #02 by bytes-and-pixels<br></p></blockquote><p><b>FEATURES</b></p><ul><li>Black and white and shades in between<br></li><li>26 Color Options<br></li><li>Up to 12 Custom Links (more if you know HTML)</li><li>400px Posts<br></li><li>Reblog Button<br></li><li>Lazy Load Posts<br></li><li>Customized Cursor<br></li><li>Option for Faded Images</li><li>Option for Grayscale Images<br></li></ul><p><b>NOTES</b></p><ul><li>Please do not rip off the codes and/or remove the credit.</li><li>Also, please do not redistribute and/or claim as your own.</li><li>Kindly like and/or reblog this post if you&rsquo;re using the theme.</li></ul><p><b><a href="http://darksome-bybap.tumblr.com/">LIVE PREVIEW</a> // <a href="http://t.umblr.com/redirect?z=http%3A%2F%2Fpastebin.com%2F5pEUPQzk&amp;t=MmVlNzAzZTlhMjkyNGFlYTQ1YTJiY2UwNzRhNGMwOWJjYmVmYWUyNSxIR3VnUWFBUQ%3D%3D">CODES</a></b><small><br></small></p><blockquote><p><small>credits to <a href="http://tmblr.co/mUNBndIQoeB8oEidwKYrFGA">wnwnmemo</a>, <a href="http://tmblr.co/mXvAEYzOUbeERYvJBIDZzQg">pixel-soup</a>, and <a href="http://t.umblr.com/redirect?z=http%3A%2F%2Fchapter-57.siemalt.com%2Fpost%2F85841800562%2Ftheme-7-bewegung-live-preview-code%2F&amp;t=NzczYTIzMzA1MjA3MmFkNjc1ZDliMGQ2ZGQ5ZWU4MjJiY2Y1MTI5YixIR3VnUWFBUQ%3D%3D">chapter 57</a>.</small><br></p></blockquote></blockquote>
+    
+     
+    
+     
+    
+     
+     
+    
+     
+    
+     
+     
+    
+    
+    <div class="details">&mdash; <a href="http://darksome-bysiyelalah.tumblr.com/post/119794793920/bytes-and-pixels-darksome-theme-02-by" title="reblogged post">May 24 '15</a> &mdash; <a href="http://darksome-bysiyelalah.tumblr.com/post/119794793920/bytes-and-pixels-darksome-theme-02-by" title="reblogged post">17:34</a>  &mdash;  <a href="http://darksome-bysiyelalah.tumblr.com/post/119794793920/bytes-and-pixels-darksome-theme-02-by" title="note count">92</a> &mdash; <a href="http://magic-kissed.tumblr.com/post/119345375741" title="magic-kissed">Via</a> &mdash; <a href="http://bytes-and-pixels.tumblr.com/" title="magic-kissed">Source</a> &mdash; <a href="https://www.tumblr.com/reblog/119794793920/HGugQaAQ">Reblog</a> &mdash;</div>
+     
+     
+    </div>
+    </div><!--- end of reveal class--->
+    
+    <div data-scroll-reveal='move 80px'><div class="post">
+    
+    
+    
+     
+    
+     
+    
+        <div id="chat">
+        
+        <div style="margin-top:5px;"><div class="line">
+        <span class="label">Him:</span>
+        Moon of my life...</div><div class="line">
+        <span class="label">Her:</span>
+        My sun and stars...</div></div></div>
+    
+    
+    
+     
+    
+     
+    
+     
+    
+     
+     
+    
+     
+    
+     
+     
+    
+    
+    <div class="details">&mdash; <a href="http://darksome-bysiyelalah.tumblr.com/post/118187631125/him-moon-of-my-life-her-my-sun-and-stars" title="reblogged post">May 5 '15</a> &mdash; <a href="http://darksome-bysiyelalah.tumblr.com/post/118187631125/him-moon-of-my-life-her-my-sun-and-stars" title="reblogged post">04:38</a>  &mdash;  <a href="http://darksome-bysiyelalah.tumblr.com/post/118187631125/him-moon-of-my-life-her-my-sun-and-stars" title="note count">109</a> &mdash; <a href="http://magic-kissed.tumblr.com/post/50296775906" title="magic-kissed">Via</a> &mdash; <a href="https://www.tumblr.com/reblog/118187631125/qGsH8bmB">Reblog</a> &mdash;</div>
+     
+     
+    </div>
+    </div><!--- end of reveal class--->
+    
+    <div data-scroll-reveal='move 80px'><div class="post">
+    
+    
+    
+     
+    
+     
+    
+    
+    
+     
+    
+     
+    
+     
+    
+        <h1><a href="http://t.umblr.com/redirect?z=http%3A%2F%2Fsiyelalah.tumblr.com%2F&amp;t=NjFlMWU5ZmM3MTE5MWE5ODcxMzMyZjRiNDYyZGY5NGMzNDE3ZjY2ZixnenFKa1pnYw%3D%3D" >Serotonin Rush ↦</a></h1>
+        
+    
+     
+     
+    
+     
+    
+     
+     
+    
+    
+    <div class="details">&mdash; <a href="http://darksome-bysiyelalah.tumblr.com/post/118187151105/serotonin-rush" title="original post">May 5 '15</a> &mdash; <a href="http://darksome-bysiyelalah.tumblr.com/post/118187151105/serotonin-rush" title="original post">04:22</a>  &mdash; <a href="https://www.tumblr.com/reblog/118187151105/gzqJkZgc">Reblog</a> &mdash;</div>
+     
+     
+    </div>
+    </div><!--- end of reveal class--->
+    
+    <div data-scroll-reveal='move 80px'><div class="post">
+    
+    
+    
+        <h1></h1><p><a class="tumblr_blog" href="http://shittinonyowholelife.tumblr.com/post/117617480498">shittinonyowholelife</a>:</p>
+    
+    <blockquote><p><a class="tumblr_blog" href="http://eupheme-butterfly.tumblr.com/post/116624515785/icecream-eaterrr-i-just-heard-this-woman-say">eupheme-butterfly</a>:</p>
+    
+    <blockquote><p><a class="tumblr_blog" href="http://icecream-eaterrr.tumblr.com/post/116516041411/i-just-heard-this-woman-say-you-procrastinate">icecream-eaterrr</a>:</p>
+    
+    <blockquote><p>I just heard this woman say &ldquo;you procrastinate because you are afraid of rejection. It&rsquo;s a defense mechanism, you are trying to protect yourself without even trying.&rdquo; and I think I just realized what was wrong with me.</p></blockquote>
+    
+    <p>Yep, this is a very, very common reason for procrastinating. &nbsp;It&rsquo;s also why procrastination, even though it&rsquo;s often associated with laziness, is a fairly common trait in a lot of people with anxiety and perfectionism issues.</p></blockquote>
+    
+    <p>well&hellip;shit.</p></blockquote>
+    
+     
+    
+     
+    
+    
+    
+     
+    
+     
+    
+     
+    
+     
+     
+    
+     
+    
+     
+     
+    
+    
+    <div class="details">&mdash; <a href="http://darksome-bysiyelalah.tumblr.com/post/118181627235/shittinonyowholelife-eupheme-butterfly" title="reblogged post">May 5 '15</a> &mdash; <a href="http://darksome-bysiyelalah.tumblr.com/post/118181627235/shittinonyowholelife-eupheme-butterfly" title="reblogged post">01:58</a>  &mdash;  <a href="http://darksome-bysiyelalah.tumblr.com/post/118181627235/shittinonyowholelife-eupheme-butterfly" title="note count">392434</a> &mdash; <a href="http://nowacceptingfirstborns.tumblr.com/post/118181249987/shittinonyowholelife-eupheme-butterfly" title="nowacceptingfirstborns">Via</a> &mdash; <a href="http://icecream-eaterrr.tumblr.com/post/116516041411/i-just-heard-this-woman-say-you-procrastinate" title="icecream-eaterrr">Source</a> &mdash; <a href="https://www.tumblr.com/reblog/118181627235/nz3B78BZ">Reblog</a> &mdash;</div>
+     
+     
+    </div>
+    </div><!--- end of reveal class--->
+    
+    <div data-scroll-reveal='move 80px'><div class="post">
+    
+    
+    
+        <h1></h1><p><a class="tumblr_blog" href="http://eeveez.tumblr.com/post/117480122680/person-you-know-what-youre-eating-right-now-is">eeveez</a>:</p>
+    
+    <blockquote><p>person: you know, what you&rsquo;re eating right now is actually really unhealthy :/</p><p>me: *is confused, because i don&rsquo;t remember fuckin asking*</p></blockquote>
+    
+     
+    
+     
+    
+    
+    
+     
+    
+     
+    
+     
+    
+     
+     
+    
+     
+    
+     
+     
+    
+    
+    <div class="details">&mdash; <a href="http://darksome-bysiyelalah.tumblr.com/post/118181618635/eeveez-person-you-know-what-youre-eating" title="reblogged post">May 5 '15</a> &mdash; <a href="http://darksome-bysiyelalah.tumblr.com/post/118181618635/eeveez-person-you-know-what-youre-eating" title="reblogged post">01:58</a>  &mdash;  <a href="http://darksome-bysiyelalah.tumblr.com/post/118181618635/eeveez-person-you-know-what-youre-eating" title="note count">216039</a> &mdash; <a href="http://blenheim--place.tumblr.com/post/118181471982/eeveez-person-you-know-what-youre-eating" title="blenheim--place">Via</a> &mdash; <a href="http://eeveez.tumblr.com/post/117480122680/person-you-know-what-youre-eating-right-now-is" title="eeveez">Source</a> &mdash; <a href="https://www.tumblr.com/reblog/118181618635/Ee7g2BQs">Reblog</a> &mdash;</div>
+     
+     
+    </div>
+    </div><!--- end of reveal class--->
+    
+    <div data-scroll-reveal='move 80px'><div class="post">
+    
+    
+    
+     
+    
+     
+    
+    
+    
+     
+    
+     
+    
+        <div class="photoset"><div id="photoset_118181360525" class="html_photoset">    <iframe id="photoset_iframe_118181360525" class="photoset" scrolling="no" frameborder="0" height="362" width="400"
+                style="border:0px; background-color:transparent; overflow:hidden;" src="http://darksome-bysiyelalah.tumblr.com/post/118181360525/photoset_iframe/darksome-bysiyelalah/tumblr_nn8jwll2281s1vn29/400/false" name="photoset_iframe_118181360525"></iframe></div></div>
+        <p><a class="tumblr_blog" href="http://t.umblr.com/redirect?z=http%3A%2F%2Fsixpenceee.com%2Fpost%2F117207247435%2Fbreathe-is-another-short-horror-film&amp;t=ZTczZTMwMTI1YmViYjk3MjYyYzg4MTEzNDJlMTA1ZmM1NWE2Y2NlZixUOWVOS3FDOQ%3D%3D">sixpenceee</a>:</p>
+    
+    <blockquote><p><b>Breathe </b>is another short horror film, I&rsquo;d&nbsp;recommend. It&rsquo;s a ghost story about a girl who appears when you hold your breathe. You&rsquo;ll be held in a constant state of suspense.&nbsp;</p><p>You can watch it <b><a href="http://t.umblr.com/redirect?z=https%3A%2F%2Fwww.shortoftheweek.com%2F2015%2F02%2F09%2Fbreathe%2F&amp;t=NzQ3NGFlNGU2NjE4ZWFiNjM0ZDBjOTI5NmRjMmEzYWRmYmVjNGIxNCxUOWVOS3FDOQ%3D%3D">here</a></b></p><p>Here is my <a href="http://t.umblr.com/redirect?z=http%3A%2F%2Fsixpenceee.com%2Fpost%2F96732995419%2Fthere-are-a-bunch-of-creepy-short&amp;t=NmJiMWJmOGVjNzUwNTgzNDgzMzkzMzk1ZjVmYmQ2ZTQzNmEzNDk2OCxUOWVOS3FDOQ%3D%3D"><b>masterpost of creepy short films</b></a></p></blockquote>
+    
+     
+    
+     
+     
+    
+     
+    
+     
+     
+    
+    
+    <div class="details">&mdash; <a href="http://darksome-bysiyelalah.tumblr.com/post/118181360525/sixpenceee-breathe-is-another-short-horror" title="reblogged post">May 5 '15</a> &mdash; <a href="http://darksome-bysiyelalah.tumblr.com/post/118181360525/sixpenceee-breathe-is-another-short-horror" title="reblogged post">01:53</a>  &mdash;  <a href="http://darksome-bysiyelalah.tumblr.com/post/118181360525/sixpenceee-breathe-is-another-short-horror" title="note count">9748</a> &mdash; <a href="http://sixpenceee.com/post/118180975555/sixpenceee-breathe-is-another-short-horror" title="sixpenceee">Via</a> &mdash; <a href="https://www.tumblr.com/reblog/118181360525/T9eNKqC9">Reblog</a> &mdash;</div>
+     
+     
+    </div>
+    </div><!--- end of reveal class--->
+    
+    <div data-scroll-reveal='move 80px'><div class="post">
+    
+    
+    
+     
+    
+        <h2>« I loved to sleep with the window open. Rainy nights were the best of all: I would open the window and put my head on the pillow and close my eyes and feel the wind on my face and listen to the trees sway and creak. »</h2>
+        <div style="text-align: right;">Neil Gaiman, (The Ocean at the End of the Lane)</div>
+    
+     
+    
+    
+    
+     
+    
+     
+    
+     
+    
+     
+     
+    
+     
+    
+     
+     
+    
+    <div id="tags">
+    <a href="http://darksome-bysiyelalah.tumblr.com/tagged/neil-gaiman">✘neil gaiman</a>  <a href="http://darksome-bysiyelalah.tumblr.com/tagged/the-ocean-at-the-end-of-the-lane">✘the ocean at the end of the lane</a>  
+    </div>
+    
+    
+    <div class="details">&mdash; <a href="http://darksome-bysiyelalah.tumblr.com/post/118181313460/i-loved-to-sleep-with-the-window-open-rainy" title="reblogged post">May 5 '15</a> &mdash; <a href="http://darksome-bysiyelalah.tumblr.com/post/118181313460/i-loved-to-sleep-with-the-window-open-rainy" title="reblogged post">01:52</a>  &mdash;  <a href="http://darksome-bysiyelalah.tumblr.com/post/118181313460/i-loved-to-sleep-with-the-window-open-rainy" title="note count">97824</a> &mdash; <a href="http://www.girlthatreads.com/post/118180867595/i-loved-to-sleep-with-the-window-open-rainy" title="girlthatreads">Via</a> &mdash; <a href="http://pluvi0phi1e.tumblr.com/post/67551989763/i-loved-to-sleep-with-the-window-open-rainy" title="pluvi0phi1e">Source</a> &mdash; <a href="https://www.tumblr.com/reblog/118181313460/VXB1fpdK">Reblog</a> &mdash;</div>
+     
+     
+    </div>
+    </div><!--- end of reveal class--->
+    
+    <div data-scroll-reveal='move 80px'><div class="post">
+    
+    
+    
+     
+    
+     
+    
+    
+    
+     
+    
+        <a href="http://silly-luv.tumblr.com/"><img src="http://67.media.tumblr.com/1c8c13e0055023bfba7baae36aeb04ba/tumblr_nl9hrjrLNm1t1prrio1_400.jpg" width="400px" alt=""></a>
+        
+    
+     
+    
+     
+    
+     
+     
+    
+     
+    
+     
+     
+    
+    <div id="tags">
+    <a href="http://darksome-bysiyelalah.tumblr.com/tagged/scott-pilgrim">✘scott pilgrim</a>  
+    </div>
+    
+    
+    <div class="details">&mdash; <a href="http://darksome-bysiyelalah.tumblr.com/post/118181284510" title="reblogged post">May 5 '15</a> &mdash; <a href="http://darksome-bysiyelalah.tumblr.com/post/118181284510" title="reblogged post">01:51</a>  &mdash;  <a href="http://darksome-bysiyelalah.tumblr.com/post/118181284510" title="note count">99132</a> &mdash; <a href="http://gingergod.co.vu/post/118181006573" title="lcumo">Via</a> &mdash; <a href="http://weheartit.com/dissap0inted?page=4&amp;before=168248652" title="silly-luv">Source</a> &mdash; <a href="https://www.tumblr.com/reblog/118181284510/56LEFrOG">Reblog</a> &mdash;</div>
+     
+     
+    </div>
+    </div><!--- end of reveal class--->
+    
+    
+    
+    
+    </div>
+    
+    <script src='https://static.tumblr.com/v5isxm2/t4Rn5i6fg/scrollreveal.js'></script>
+      <script>
+     
+          window.scrollReveal = new scrollReveal();
+     
+      </script>
+    
+    
+    <iframe scrolling="no" width="1" height="1" frameborder="0" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0; z-index:9999;" id="ga_target"></iframe><script type="text/javascript">
+        (function(){
+            var analytics_frame = document.getElementById('ga_target');
+            var analytics_iframe_loaded;
+            var user_logged_in;
+            var blog_is_nsfw = 'No';
+            var addthis_enabled = false;
+    
+            var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+            var eventer = window[eventMethod];
+            var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
+            eventer(messageEvent,function(e) {
+                var message = (e.data && e.data.split) ? e.data.split(';') : '';
+                switch (message[0]) {
+                    case 'analytics_iframe_loaded':
+                        analytics_iframe_loaded = true;
+                        postCSMessage();
+                        postGAMessage();
+                        postATMessage();
+                        postRapidMessage();
+                        break;
+                    case 'user_logged_in':
+                        user_logged_in = message[1];
+                        postGAMessage();
+                        postATMessage();
+                        break;
+                }
+            }, false);
+    
+            analytics_frame.src = "https://secure.assets.tumblr.com/analytics.html?f89dd274a76812e35873eeb31ba5162c#" +
+                                  "http://darksome-bysiyelalah.tumblr.com";
+            function postGAMessage() {
+                if (analytics_iframe_loaded && user_logged_in) {
+                    var is_ajax = false;
+                    analytics_frame.contentWindow.postMessage(['tick_google_analytics', is_ajax, user_logged_in, blog_is_nsfw, '/?route=%2F'].join(';'), analytics_frame.src.split('/analytics.html')[0]);
+                }
+            }
+            function postCSMessage() {
+                COMSCORE = true;
+                analytics_frame.contentWindow.postMessage('enable_comscore;' + window.location, analytics_frame.src.split('/analytics.html')[0]);
+            }
+            function postATMessage() {
+                if (addthis_enabled && analytics_iframe_loaded) {
+                    analytics_frame.contentWindow.postMessage('enable_addthis', analytics_frame.src.split('/analytics.html')[0]);
+                }
+            }
+            function postRapidMessage() {
+                                if (analytics_iframe_loaded) {
+                        var is_ajax = '';
+                        var route = '/';
+                        var tumblelog_id = '220666255';
+                        var yahoo_space_id = '1197719229';
+                        var rapid_client_only = '1';
+                        var apv = '1';
+                        var rapid_ex = '';
+    
+                        analytics_frame.contentWindow.postMessage(
+                            [
+                                'tick_rapid', is_ajax, route, user_logged_in, tumblelog_id,
+                                yahoo_space_id, rapid_client_only, apv, rapid_ex
+                            ].join(';'),
+                            analytics_frame.src.split('/analytics.html')[0]
+                        );
+                    }
+                        }
+        })();
+    </script><script type="text/javascript">!function(s){s.src='https://px.srvcs.tumblr.com/impixu?T=1466639547&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvZGFya3NvbWUtYnlzaXllbGFsYWgudHVtYmxyLmNvbVwvIiwicmVxdHlwZSI6MCwicm91dGUiOiJcLyJ9&U=PAPAMLEHGE&K=8c36e96759d3cde1c261521de43f05d50dcb1d733f80bc906c5673e3dde66f20&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="https://px.srvcs.tumblr.com/impixu?T=1466639547&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDpcL1wvZGFya3NvbWUtYnlzaXllbGFsYWgudHVtYmxyLmNvbVwvIiwicmVxdHlwZSI6MCwicm91dGUiOiJcLyIsIm5vc2NyaXB0IjoxfQ==&U=PAPAMLEHGE&K=aee3d8cdae0715ff3603d1b2cc4a34d265ed3c652c4077d4a2137c459f31ac97&R="></noscript><script >
+            (function (w,d) {
+                'use strict';
+                var l = function(el, type, listener, useCapture) {
+                    el.addEventListener ?
+                    el.addEventListener(type, listener, !!useCapture) :
+                    el.attachEvent && el.attachEvent('on' + type, listener, !!useCapture);
+                };
+                var a = function () {
+                                    if (d.getElementById('tumblr-cdx')) {
+                        return;
+                    }
+                    var s = d.createElement('script');
+                    var el = d.getElementsByTagName('script')[0];
+                    s.async = true;
+                    s.src = 'https://assets.tumblr.com/assets/scripts/vendor/cedexis/cedexis.radar.js?_v=18ca26a45ebbacf4c64d491219b899dc';
+                    s.type = 'text/javascript';
+                    s.id = 'tumblr-cdx';
+                    d.body.appendChild(s);
+                };
+                l(w,'load',a);
+            }(window, document));
+    </script><script type="text/javascript">!function(s){s.src='https://px.srvcs.tumblr.com/impixu?T=1466639547&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL2Rhcmtzb21lLWJ5c2l5ZWxhbGFoLnR1bWJsci5jb21cLyIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC8iLCJwb3N0cyI6W3sicm9vdF9ibG9naWQiOiIzMTk5OTU2NiIsInJvb3RfcG9zdGlkIjoiMTE5MzQ1Mzc1NzQxIiwicG9zdGlkIjoiMTE5Nzk0NzkzOTIwIiwiYmxvZ2lkIjoiMjIwNjY2MjU1Iiwic291cmNlIjozM30seyJyb290X2Jsb2dpZCI6IjMxOTk5NTY2Iiwicm9vdF9wb3N0aWQiOiI1MDI5Njc3NTkwNiIsInBvc3RpZCI6IjExODE4NzYzMTEyNSIsImJsb2dpZCI6IjIyMDY2NjI1NSIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiMTE4MTg3MTUxMTA1IiwiYmxvZ2lkIjoiMjIwNjY2MjU1Iiwic291cmNlIjozM30seyJyb290X2Jsb2dpZCI6IjEwNzAyNDYzIiwicm9vdF9wb3N0aWQiOiIxMTY1MTYwNDE0MTEiLCJwb3N0aWQiOiIxMTgxODE2MjcyMzUiLCJibG9naWQiOiIyMjA2NjYyNTUiLCJzb3VyY2UiOjMzfSx7InJvb3RfYmxvZ2lkIjoiMjY3MjY3NTAiLCJyb290X3Bvc3RpZCI6IjExNzQ4MDEyMjY4MCIsInBvc3RpZCI6IjExODE4MTYxODYzNSIsImJsb2dpZCI6IjIyMDY2NjI1NSIsInNvdXJjZSI6MzN9LHsicm9vdF9ibG9naWQiOiI4NjMwNzQ0MSIsInJvb3RfcG9zdGlkIjoiMTE3MjA3MjQ3NDM1IiwicG9zdGlkIjoiMTE4MTgxMzYwNTI1IiwiYmxvZ2lkIjoiMjIwNjY2MjU1Iiwic291cmNlIjozM30seyJyb290X2Jsb2dpZCI6IjQxNDc3ODQxIiwicm9vdF9wb3N0aWQiOiI2NzU1MTk4OTc2MyIsInBvc3RpZCI6IjExODE4MTMxMzQ2MCIsImJsb2dpZCI6IjIyMDY2NjI1NSIsInNvdXJjZSI6MzN9LHsicm9vdF9ibG9naWQiOiIxNDY0OTkzMTkiLCJyb290X3Bvc3RpZCI6MTEzODIxNTk3MDg3LCJwb3N0aWQiOiIxMTgxODEyODQ1MTAiLCJibG9naWQiOiIyMjA2NjYyNTUiLCJzb3VyY2UiOjMzfV19&U=GCPDAAPNHP&K=473d102d25680ca1eb987687f6023d3172ef3b798298cef0a3d09ab65b8128f4&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="https://px.srvcs.tumblr.com/impixu?T=1466639547&J=eyJ0eXBlIjoicG9zdCIsInVybCI6Imh0dHA6XC9cL2Rhcmtzb21lLWJ5c2l5ZWxhbGFoLnR1bWJsci5jb21cLyIsInJlcXR5cGUiOjAsInJvdXRlIjoiXC8iLCJwb3N0cyI6W3sicm9vdF9ibG9naWQiOiIzMTk5OTU2NiIsInJvb3RfcG9zdGlkIjoiMTE5MzQ1Mzc1NzQxIiwicG9zdGlkIjoiMTE5Nzk0NzkzOTIwIiwiYmxvZ2lkIjoiMjIwNjY2MjU1Iiwic291cmNlIjozM30seyJyb290X2Jsb2dpZCI6IjMxOTk5NTY2Iiwicm9vdF9wb3N0aWQiOiI1MDI5Njc3NTkwNiIsInBvc3RpZCI6IjExODE4NzYzMTEyNSIsImJsb2dpZCI6IjIyMDY2NjI1NSIsInNvdXJjZSI6MzN9LHsicG9zdGlkIjoiMTE4MTg3MTUxMTA1IiwiYmxvZ2lkIjoiMjIwNjY2MjU1Iiwic291cmNlIjozM30seyJyb290X2Jsb2dpZCI6IjEwNzAyNDYzIiwicm9vdF9wb3N0aWQiOiIxMTY1MTYwNDE0MTEiLCJwb3N0aWQiOiIxMTgxODE2MjcyMzUiLCJibG9naWQiOiIyMjA2NjYyNTUiLCJzb3VyY2UiOjMzfSx7InJvb3RfYmxvZ2lkIjoiMjY3MjY3NTAiLCJyb290X3Bvc3RpZCI6IjExNzQ4MDEyMjY4MCIsInBvc3RpZCI6IjExODE4MTYxODYzNSIsImJsb2dpZCI6IjIyMDY2NjI1NSIsInNvdXJjZSI6MzN9LHsicm9vdF9ibG9naWQiOiI4NjMwNzQ0MSIsInJvb3RfcG9zdGlkIjoiMTE3MjA3MjQ3NDM1IiwicG9zdGlkIjoiMTE4MTgxMzYwNTI1IiwiYmxvZ2lkIjoiMjIwNjY2MjU1Iiwic291cmNlIjozM30seyJyb290X2Jsb2dpZCI6IjQxNDc3ODQxIiwicm9vdF9wb3N0aWQiOiI2NzU1MTk4OTc2MyIsInBvc3RpZCI6IjExODE4MTMxMzQ2MCIsImJsb2dpZCI6IjIyMDY2NjI1NSIsInNvdXJjZSI6MzN9LHsicm9vdF9ibG9naWQiOiIxNDY0OTkzMTkiLCJyb290X3Bvc3RpZCI6MTEzODIxNTk3MDg3LCJwb3N0aWQiOiIxMTgxODEyODQ1MTAiLCJibG9naWQiOiIyMjA2NjYyNTUiLCJzb3VyY2UiOjMzfV0sIm5vc2NyaXB0IjoxfQ==&U=GCPDAAPNHP&K=62f66d646680f37f7ad1b7d6bcbbb5c31f7566c97c4e8d22907c5e8cb99adf88&R="></noscript>
+    <noscript id="bootloader" data-bootstrap="{&quot;Components&quot;:{&quot;PostActivity&quot;:[],&quot;TumblelogIframe&quot;:{&quot;tumblelogBundleSrc&quot;:&quot;http:\/\/assets.tumblr.com\/client\/prod\/standalone\/tumblelog\/index.build.js?_v=9c556b71b3313075fd63ab6472b4d675&quot;,&quot;tumblelogName&quot;:&quot;darksome-bysiyelalah&quot;,&quot;isLoggedIn&quot;:false,&quot;isFriend&quot;:false,&quot;formKey&quot;:&quot;&quot;,&quot;canSubscribe&quot;:false,&quot;isSubscribed&quot;:false,&quot;tumblelogTitle&quot;:&quot;Darksome&quot;,&quot;tumblelogAvatar&quot;:&quot;http:\/\/assets.tumblr.com\/images\/default_avatar\/octahedron_closed_40.png&quot;,&quot;tumblelogHost&quot;:&quot;http:\/\/darksome-bysiyelalah.tumblr.com&quot;,&quot;brag&quot;:true,&quot;currentPageType&quot;:&quot;blog&quot;,&quot;currentPage&quot;:&quot;1&quot;,&quot;tag&quot;:&quot;&quot;,&quot;query&quot;:&quot;&quot;,&quot;chrono&quot;:false,&quot;postId&quot;:&quot;&quot;,&quot;src&quot;:&quot;http:\/\/darksome-bysiyelalah.tumblr.com\/&quot;,&quot;postUrl&quot;:&quot;&quot;,&quot;isBlocked&quot;:null,&quot;isAdmin&quot;:false,&quot;lookupButtonUrl&quot;:&quot;&quot;,&quot;showSpamButton&quot;:false,&quot;showRootPostButton&quot;:false,&quot;rootPostUrl&quot;:&quot;&quot;,&quot;showRadarPostButton&quot;:false,&quot;radarKeys&quot;:&quot;&quot;,&quot;isUniblocked&quot;:false,&quot;isNsfw&quot;:false,&quot;isAdult&quot;:false,&quot;isSpam&quot;:false,&quot;isPrimaryBlog&quot;:false,&quot;canEdit&quot;:false,&quot;canReblogSelf&quot;:false,&quot;showLikeButton&quot;:false,&quot;showReblogButton&quot;:false,&quot;reblogUrl&quot;:&quot;&quot;,&quot;showFanMailButton&quot;:false,&quot;showMessagingButton&quot;:false,&quot;loginCheckIframeSrc&quot;:&quot;http:\/\/assets.tumblr.com\/assets\/html\/iframe\/login_check.html?_v=1f7551cecda7e8904267d0a3d4d7a6a9&quot;,&quot;appInstallUrl&quot;:&quot;https:\/\/go.onelink.me\/893408789?pid=tumblr_blog_network\u0026c=tumblr_blog_network\u0026af_sub3=blog_name&quot;}},&quot;Flags&quot;:{&quot;doods&quot;:&quot;eyJmaWx0ZXJfbnNmdyI6dHJ1ZSwia2V5Y29tbWFuZF9hdXRvX3BhZ2luYXRlIjp0cnVlLCJsb2dnZWRfb3V0X3NlYXJjaCI6dHJ1ZSwiYXJjaGl2ZS1wbHVzIjp0cnVlLCJzZWN1cmVfZm9ybV9rZXkiOnRydWUsInNlY3VyZV9mb3JtX2tleV9mdWxseV9vbiI6dHJ1ZSwidHVtYmxlbG9nX3BvcG92ZXIiOnRydWUsImNhbm9uaWNhbF91cmxfd3JpdGVzIjp0cnVlLCJlbmFibGVfY2FwdHVyZV9qcyI6dHJ1ZSwicHJpbWFfcG9zdF9mb3JtcyI6dHJ1ZSwibG9ja2VkX3JlYmxvZ191aSI6dHJ1ZSwibG9ja2VkX3JlYmxvZ191aV9wYXJzZV90ZXN0Ijp0cnVlLCJ0YWJsZXRfYmFubmVyX2FjdGl2ZSI6dHJ1ZSwibW9iaWxlX2Jhbm5lcl9hY3RpdmUiOnRydWUsImxvZ19zZWFyY2hfYm94Ijp0cnVlLCJ1c2VyX21lbnRpb25zIjp0cnVlLCJodG1sNV9hdWRpb19wbGF5ZXIiOnRydWUsInBvcG92ZXJfcmVjb21tZW5kYXRpb25zIjp0cnVlLCJpbmRhc2hfcmVjb21tZW5kYXRpb25zIjp0cnVlLCJwb3B0aWNhX3R1bWJsZWxvZ19wb3BvdmVycyI6dHJ1ZSwidHVtYmxyX3R2Ijp0cnVlLCJkZXByZWNhdGVfZmVhdHVyZWRfdGFncyI6dHJ1ZSwicmVibG9nX3VpX3JlZnJlc2giOnRydWUsInRhYl9zd2l0Y2hlciI6dHJ1ZSwiZmFzdF9jb21wb3NlIjp0cnVlLCJkYXNoYm9hcmRfcmVmcmVzaCI6dHJ1ZSwibW9iaWxlX3dlYl9waG90b3NldHMiOnRydWUsIm1vYmlsZV93ZWJfZ2F0ZSI6dHJ1ZSwibW9iaWxlX3dlYl9wYWdlX3RpdGxlcyI6dHJ1ZSwibW9iaWxlX3dlYl9hYnVzZV9mb3JtIjp0cnVlLCJkb250X2Nhc3RfanNfZm9sbG93cyI6dHJ1ZSwiYWRzX25ld192ZW5kb3JfYnV0dG9ucyI6dHJ1ZSwiYmxvY2tfZmVhdHVyZSI6dHJ1ZSwicmVhY3RpdmF0aW9uX2Zsb3ciOnRydWUsImd1bHBqc19hZG1pbiI6dHJ1ZSwiZW5hYmxlX2pzX2Vycm9yc19sb2ciOnRydWUsImVuYWJsZV9qc19lcGhlbWVyYWxfbG9nIjp0cnVlLCJsb2dfbGFkeSI6dHJ1ZSwiY3Nsb2dnZXJfanMiOnRydWUsImRpc2NvdmVyeV9odWJfYWNjZXNzIjp0cnVlLCJoZWFkZXJfYWNjb3VudF9tZW51Ijp0cnVlLCJlbmFibGVfc2hhcmVfZW1iZWRfY29kZSI6dHJ1ZSwicGludGVyZXN0X3NoYXJpbmciOnRydWUsInJlZGRpdF9zaGFyaW5nIjp0cnVlLCJwb3N0X2l0X2ZvcndhcmQiOnRydWUsInBlZXByX3NlYXJjaF9hbmRfZmlsdGVyIjp0cnVlLCJpbnRlcm5zX3BhZ2UiOnRydWUsImZvbGxvd2VkX3NlYXJjaGVzX2JpZ193ZWIiOnRydWUsImRpc2FibGVfcHVibGljX3JlcGxpZXMiOnRydWUsIndlYl9ibG9nX3N1YnNjcmlwdGlvbnMiOnRydWUsIm5ld19yZXBsaWVzIjp0cnVlLCJjb25zb2xpZGF0ZWRfc2hhcmVfd2ViIjp0cnVlLCJibG9nX3N1Yl9vbl9ibG9nX25ldHdvcmsiOnRydWUsInByaWRlX2xvZ28iOnRydWUsIndpZGVfcmlnaHRfY29sdW1uIjp0cnVlLCJkaXNhYmxlX3lhaG9vX2JfY29va2llIjp0cnVlLCJwcmltYV90dW1ibGVsb2dfYnVuZGxlIjp0cnVlfQ==&quot;},&quot;Context&quot;:{&quot;name&quot;:&quot;default&quot;,&quot;time&quot;:1466639547000,&quot;userinfo&quot;:{&quot;primary&quot;:&quot;&quot;,&quot;name&quot;:&quot;&quot;,&quot;channels&quot;:[]},&quot;hosts&quot;:{&quot;assets_host&quot;:&quot;http:\/\/assets.tumblr.com&quot;,&quot;secure_assets_host&quot;:&quot;https:\/\/secure.assets.tumblr.com&quot;,&quot;www_host&quot;:&quot;http:\/\/www.tumblr.com&quot;,&quot;secure_www_host&quot;:&quot;https:\/\/www.tumblr.com&quot;,&quot;embed_host&quot;:&quot;https:\/\/embed.tumblr.com&quot;,&quot;safe_host&quot;:&quot;http:\/\/safe.txmblr.com&quot;,&quot;platform_host&quot;:&quot;http:\/\/platform.tumblr.com&quot;},&quot;language&quot;:&quot;en_US&quot;,&quot;language_simple&quot;:&quot;en&quot;,&quot;assets&quot;:&quot;http:\/\/assets.tumblr.com\/client\/prod\/&quot;},&quot;Translations&quot;:{&quot;%1$sReport %2$s&#039;s post?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;:&quot;%1$sReport %2$s&#039;s reblog?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;,&quot;%1$sReport %2$s&#039;s reply?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;:&quot;%1$sReport %2$s&#039;s reblog?%3$sIf it violates our community guidelines, we&#039;ll remove it.%4$s&quot;}}"></noscript>
+    <script src="https://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js?_v=9c556b71b3313075fd63ab6472b4d675"></script>
+    
+    
+    <iframe scrolling="no" width="1" height="1" frameborder="0" style="background-color:transparent; overflow:hidden; position:absolute; top:0; left:0; z-index:9999;" id="ga_target"></iframe><script type="text/javascript">
+        (function(){
+            var analytics_frame = document.getElementById('ga_target');
+            var analytics_iframe_loaded;
+            var user_logged_in;
+            var blog_is_nsfw = 'No';
+    
+            var eventMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+            var eventer = window[eventMethod];
+            var messageEvent = eventMethod == "attachEvent" ? "onmessage" : "message";
+            eventer(messageEvent,function(e) {
+                var message = (e.data && e.data.split) ? e.data.split(';') : '';
+                switch (message[0]) {
+                    case 'analytics_iframe_loaded':
+                        analytics_iframe_loaded = true;
+                        postCSMessage();
+                        postGAMessage();
+                        break;
+                    case 'user_logged_in':
+                        user_logged_in = message[1];
+                        postGAMessage();
+                        break;
+                }
+            }, false);
+    
+            analytics_frame.src = "https://assets.tumblr.com/analytics.html?_v=9f5febfd57a8a649c598d888f2d9e062#" +
+                                  "https://bytes-and-pixels.tumblr.com";
+            function postGAMessage() {
+                if (analytics_iframe_loaded && user_logged_in) {
+                    var is_ajax = false;
+                    analytics_frame.contentWindow.postMessage(['tick_google_analytics', is_ajax, user_logged_in, blog_is_nsfw, '/darksome?route=custom_page'].join(';'), analytics_frame.src.split('/analytics.html')[0]);
+                }
+            }
+            function postCSMessage() {
+                COMSCORE = true;
+                analytics_frame.contentWindow.postMessage('enable_comscore;' + window.location, analytics_frame.src.split('/analytics.html')[0]);
+            }
+        })();
+    </script><script type="text/javascript" nonce="NqUpEUte70z9Z8xHMCcbk42b7g">!function(s){s.src='https://px.srvcs.tumblr.com/impixu?T=1721240502&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDovL2J5dGVzLWFuZC1waXhlbHMudHVtYmxyLmNvbS9kYXJrc29tZSIsInJlcXR5cGUiOjAsInJvdXRlIjoiY3VzdG9tX3BhZ2UifQ==&U=NBGPHPIAJF&K=c9ed2c2929b037f09f52518fb77e0aa449f31a016483d09bfb9733eb4f18b284&R='.replace(/&R=[^&$]*/,'').concat('&R='+escape(document.referrer)).slice(0,2000).replace(/%.?.?$/,'');}(new Image());</script><noscript><img style="position:absolute;z-index:-3334;top:0px;left:0px;visibility:hidden;" src="https://px.srvcs.tumblr.com/impixu?T=1721240502&J=eyJ0eXBlIjoidXJsIiwidXJsIjoiaHR0cDovL2J5dGVzLWFuZC1waXhlbHMudHVtYmxyLmNvbS9kYXJrc29tZSIsInJlcXR5cGUiOjAsInJvdXRlIjoiY3VzdG9tX3BhZ2UiLCJub3NjcmlwdCI6MX0=&U=NBGPHPIAJF&K=d0b0f1c5f0acf5fd5259beff60a74d5af67ef145ac33b7b92b1b158326b45dcc&R="></noscript><noscript id="bootloader" data-bootstrap="{&quot;Components&quot;:{&quot;PostActivity&quot;:[],&quot;NotificationPoller&quot;:{&quot;messaging_keys&quot;:[],&quot;token&quot;:&quot;&quot;,&quot;inbox_unread&quot;:0},&quot;DesktopDashboardLogo&quot;:{&quot;animations&quot;:[[&quot;https:\/\/assets.tumblr.com\/images\/logo\/hover-animations\/1.png?_v=161861acded461bb6e995593a3bae835&quot;,&quot;https:\/\/assets.tumblr.com\/images\/logo\/hover-animations\/1@2x.png?_v=496a774637302a598c851381d00009b0&quot;]]},&quot;TumblelogIframe&quot;:{&quot;unified&quot;:true,&quot;variant&quot;:null,&quot;isCompact&quot;:true,&quot;tumblelogBundleSrc&quot;:&quot;https:\/\/assets.tumblr.com\/client\/prod\/standalone\/tumblelog\/index.build.js?_v=03e800b27eff76cee863b8346f5e3e52&quot;,&quot;tumblelogName&quot;:&quot;bytes-and-pixels&quot;,&quot;isLoggedIn&quot;:false,&quot;isFriend&quot;:false,&quot;formKey&quot;:&quot;&quot;,&quot;canSubscribe&quot;:false,&quot;isSubscribed&quot;:false,&quot;tumblelogTitle&quot;:&quot;BYTES AND PIXELS&quot;,&quot;tumblelogAvatar&quot;:&quot;https:\/\/64.media.tumblr.com\/avatar_2d7a8eeca7cd_64.pnj&quot;,&quot;tumblelogAvatar128&quot;:&quot;https:\/\/64.media.tumblr.com\/avatar_2d7a8eeca7cd_128.pnj&quot;,&quot;tumblelogHost&quot;:&quot;https:\/\/bytes-and-pixels.tumblr.com&quot;,&quot;hasCustomDomain&quot;:false,&quot;isOptica&quot;:false,&quot;isCustomTheme&quot;:true,&quot;themeHeaderImage&quot;:&quot;https:\/\/static.tumblr.com\/e859da69c8f3398dd8b6b0afa4052fbe\/u0r7foc\/nhmoc237l\/tumblr_static_tumblr_static_5d1uatqgfe8s4ow0gcsk8ksgs_focused_v3.png&quot;,&quot;themeBackgroundColor&quot;:&quot;#b6486c&quot;,&quot;themeTitleColor&quot;:&quot;#f1eee1&quot;,&quot;themeAccentColor&quot;:&quot;#F5B673&quot;,&quot;brag&quot;:true,&quot;canShowAd&quot;:true,&quot;isPremium&quot;:false,&quot;showLrecAds&quot;:false,&quot;showStickyLrecBackfill&quot;:false,&quot;showGeminiAds&quot;:false,&quot;geminiSectionCodeDesktop&quot;:&quot;a10bca9c-0c5d-4a02-ab13-14ab8513d81d&quot;,&quot;geminiSectionCodeMobile&quot;:&quot;ced63809-b609-4aca-96a0-abc099acba6b&quot;,&quot;currentPageType&quot;:null,&quot;currentPage&quot;:false,&quot;searchQuery&quot;:&quot;&quot;,&quot;tag&quot;:&quot;&quot;,&quot;query&quot;:&quot;&quot;,&quot;chrono&quot;:false,&quot;postId&quot;:&quot;&quot;,&quot;src&quot;:&quot;https:\/\/bytes-and-pixels.tumblr.com\/darksome&quot;,&quot;postUrl&quot;:&quot;&quot;,&quot;openInPeeprUrl&quot;:&quot;https:\/\/www.tumblr.com\/bytes-and-pixels&quot;,&quot;isBlocked&quot;:null,&quot;isAdmin&quot;:false,&quot;lookupButtonUrl&quot;:&quot;&quot;,&quot;showSpamButton&quot;:false,&quot;showRootPostButton&quot;:false,&quot;rootPostUrl&quot;:&quot;&quot;,&quot;showRadarPostButton&quot;:false,&quot;radarKeys&quot;:&quot;&quot;,&quot;isUniblocked&quot;:false,&quot;isNsfw&quot;:false,&quot;isAdult&quot;:false,&quot;isSpam&quot;:false,&quot;isPrimaryBlog&quot;:false,&quot;canEdit&quot;:false,&quot;canReblogSelf&quot;:false,&quot;showLikeButton&quot;:false,&quot;showReblogButton&quot;:false,&quot;reblogUrl&quot;:&quot;&quot;,&quot;showMessagingButton&quot;:false,&quot;loginCheckIframeSrc&quot;:&quot;https:\/\/assets.tumblr.com\/assets\/html\/iframe\/login_check.html?_v=3de94a184d600617102ddd5b48fb36e9&quot;,&quot;appInstallUrls&quot;:{&quot;android&quot;:&quot;https:\/\/play.google.com\/store\/apps\/details?id=com.tumblr\u0026referrer=utm_source%3Dtumblr%26utm_medium%3Diframe%26utm_campaign%3Dbn_continue_or_install_cta&quot;,&quot;ios&quot;:&quot;https:\/\/apps.apple.com\/app\/apple-store\/id305343404?pt=212308\u0026ct=bn_continue_or_install_cta\u0026mt=8&quot;},&quot;appOpenReferrer&quot;:&quot;bn_header_open_btn&quot;,&quot;isShowSearch&quot;:true,&quot;supplyLogging&quot;:[],&quot;secondsSinceLastActivity&quot;:3599,&quot;installUrlOpenFailed&quot;:{&quot;android&quot;:&quot;https:\/\/play.google.com\/store\/apps\/details?id=com.tumblr\u0026referrer=utm_source%3Dtumblr%26utm_medium%3Diframe%26utm_campaign%3Dbn_header_app_open_failed&quot;,&quot;ios&quot;:&quot;https:\/\/apps.apple.com\/app\/apple-store\/id305343404?pt=212308\u0026ct=bn_header_app_open_failed\u0026mt=8&quot;},&quot;loginWallVariant&quot;:&quot;small_center&quot;},&quot;CommunityLabels&quot;:{&quot;has_community_label&quot;:false,&quot;is_single&quot;:true,&quot;redirect_target&quot;:null}},&quot;Flags&quot;:{&quot;features&quot;:&quot;eyJmaWx0ZXJfbnNmdyI6dHJ1ZSwibW9iaWxlX3dlYl9nYXRlIjp0cnVlLCJzYWZlX21vZGUiOnRydWUsInNhZmVfbW9kZV9lbmFibGVkIjp0cnVlLCJrZXljb21tYW5kX2F1dG9fcGFnaW5hdGUiOnRydWUsImxvZ2dlZF9vdXRfc2VhcmNoIjp0cnVlLCJrcmFrZW5fd2ViX2xvZ2dpbmdfbGlicmFyeSI6dHJ1ZSwibGl2ZXBob3Rvc193ZWIiOnRydWUsInVzZXJfdGFnX2ZpbHRlcmluZyI6dHJ1ZSwic2FmZV9tb2RlX293bl9wb3N0Ijp0cnVlLCJwcm9qZWN0X3hfYXBwZWFsIjp0cnVlLCJtb2JpbGVfd2ViX3Bob3Rvc2V0cyI6dHJ1ZSwiaGlkZV9kZWZhdWx0X2hlYWRlcnNfYmxvZ19jYXJkcyI6dHJ1ZSwibm90aWZpY2F0aW9uX3JlcGx5X2xpbmtfdG9fbm90ZXMiOnRydWUsInR5cGluZ19pbmRpY2F0b3Jfd3JpdGUiOnRydWUsInR1bWJscl92aWRlb19zcG9uc29yZWRfZGF5Ijp0cnVlLCJjYXB0Y2hhOnVzZV9yZWNhcHRjaGEyIjp0cnVlLCJsaXR0bGVfc2lzdGVyIjp0cnVlLCJlbmFibGVfanNfZXJyb3JzX2xvZyI6dHJ1ZSwibG9nX2xhZHkiOnRydWUsInJlZHBvcF9wb3N0X2Zvcm1fbW9iaWxlX2NyZWF0ZSI6dHJ1ZSwibGVnYWN5X3Bvc3RfZm9ybV9idXR0b25zX2xpbmtfdG9fcmVkcG9wIjp0cnVlLCJzaG93X3RzcF9jbGlja190aHJvdWdoX3RvZ2dsZSI6dHJ1ZSwiZGFybGFfYWRfZmVlZGJhY2siOnRydWUsInN0YXR1c19pbmRpY2F0b3IiOnRydWUsImNvbnZlcnNhdGlvbmFsX25vdGlmaWNhdGlvbnMiOnRydWUsImRpc2FibGVfeWFob29fYl9jb29raWUiOnRydWUsImxpdmVwaG90b3MiOnRydWUsImNvbW11bml0eV9sYWJlbHMiOnRydWV9&quot;},&quot;Context&quot;:{&quot;name&quot;:&quot;default&quot;,&quot;time&quot;:1721240502000,&quot;userinfo&quot;:{&quot;primary&quot;:&quot;&quot;,&quot;name&quot;:&quot;&quot;,&quot;channels&quot;:[]},&quot;hosts&quot;:{&quot;assets_host&quot;:&quot;https:\/\/assets.tumblr.com&quot;,&quot;secure_assets_host&quot;:&quot;https:\/\/assets.tumblr.com&quot;,&quot;www_host&quot;:&quot;https:\/\/www.tumblr.com&quot;,&quot;secure_www_host&quot;:&quot;https:\/\/www.tumblr.com&quot;,&quot;embed_host&quot;:&quot;https:\/\/embed.tumblr.com&quot;,&quot;safe_host&quot;:&quot;https:\/\/safe.txmblr.com&quot;,&quot;platform_host&quot;:&quot;https:\/\/platform.tumblr.com&quot;},&quot;language&quot;:&quot;en_US&quot;,&quot;language_simple&quot;:&quot;en&quot;,&quot;assets&quot;:&quot;https:\/\/assets.tumblr.com\/client\/prod\/&quot;},&quot;Translations&quot;:{&quot;%1$sReport %2$s&#039;s post?%3$sIf it violates our user guidelines, we&#039;ll remove it.%4$s&quot;:&quot;%1$sReport %2$s&#039;s reblog?%3$sIf it violates our user guidelines, we&#039;ll remove it.%4$s&quot;,&quot;%1$sReport %2$s&#039;s reply?%3$sIf it violates our user guidelines, we&#039;ll remove it.%4$s&quot;:&quot;%1$sReport %2$s&#039;s reblog?%3$sIf it violates our user guidelines, we&#039;ll remove it.%4$s&quot;,&quot;%1$sDelete your tip??%2$s&quot;:&quot;%1$sDelete your tip?%2$s&quot;,&quot;Deleting your tip&quot;:&quot;Deleting your tip will only remove it from the replies tab and notes. %1$sYou won&#039;t receive a refund of your tip.%2$s For further help contact %3$sTumblr Support%4$s.&quot;}}"></noscript><script src="https://assets.tumblr.com/client/prod/standalone/tumblelog/index.build.js?_v=03e800b27eff76cee863b8346f5e3e52"></script></body>
+    
+    
+    </html>
